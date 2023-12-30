@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600135110</GUID>
+      			<Text>중앙 홀</Text>
+		</Text>
+		<Text>
+     			<GUID>600135111</GUID>
+      			<Text>이 웅장한 건물은 당신의 도시를 방문하는 모든 방문객과 귀빈들에게 놀라움을 안겨줍니다.</Text>
+		</Text>
+		<Text>
+     			<GUID>600135121</GUID>
+      			<Text>도시 계획</Text>
+		</Text>				
+		<Text>
+     			<GUID>600135122</GUID>
+      			<Text>도시 계획</Text>
+		</Text>
+		<Text>
+     			<GUID>600135123</GUID>
+      			<Text>방문객들은 여러분의 도시의 웅장함에 너무 감동하여 많은 사람들이 매매할 부동산과 임대용 아파트를 찾기 시작했습니다. 여러분이 도시를 재조직하고 건축가를 고용하는 데 투자한 돈이 드디어 빛을 발하고 있습니다!</Text>
+		</Text>			
+	</ModOp>
+</ModOps>

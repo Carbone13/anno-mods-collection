@@ -1,0 +1,80 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>601127010</GUID>
+      			<Text>Colonne de la Victoire</Text>
+		</Text>
+		<Text>
+     			<GUID>601127011</GUID>
+      			<Text>La colonne de Nadasky</Text>
+		</Text>
+		<Text>
+     			<GUID>601127012</GUID>
+      			<Text>Colonne de la victoire du port</Text>
+		</Text>
+		<Text>
+     			<GUID>601127013</GUID>
+      			<Text>Arc de la victoire</Text>
+		</Text>			
+
+		
+		<Text>
+     			<GUID>601127014</GUID>
+      			<Text>Obélisque de la Reine</Text>
+		</Text>
+		<Text>
+     			<GUID>601127015</GUID>
+      			<Text>Obélisque du pape Lucius IV</Text>
+		</Text>
+		<Text>
+     			<GUID>601127016</GUID>
+      			<Text>Arche coloniale</Text>
+		</Text>
+		<Text>
+     			<GUID>601127017</GUID>
+      			<Text>Monument du roi George</Text>
+		</Text>
+		<Text>
+     			<GUID>601127018</GUID>
+      			<Text>Monument au breuvage du matin</Text>
+		</Text>
+		
+
+		<Text>
+     			<GUID>601127020</GUID>
+      			<Text>Cette colonne commémore une victoire, qu'elle soit grande ou petite.</Text>
+		</Text>			
+		<Text>
+     			<GUID>601127021</GUID>
+      			<Text>Un magnifique pilier érigé en l'honneur de l'amiral Nadasky pour sa victoire au cap Trelawney le 15 octobre 1805.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127023</GUID>
+      			<Text>Une arche décorative honorant un événement ou un individu.</Text>
+		</Text>
+
+
+		
+		<Text>
+     			<GUID>601127024</GUID>
+      			<Text>Un petit mémorial à la reine bien-aimée de l'Empire.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127025</GUID>
+      			<Text>Ce monument a été érigé sur ordre du Pape Lucius IV, pour rappeler aux cités temporelles de l'Empire que la cité parfaite ne peut exister qu'au-delà du royaume terrestre.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127026</GUID>
+      			<Text>Cette arche est construite à partir des pierres des forteresses conquises de La Corona, cette arche commémore la liberté retrouvée du Nouveau Monde de cueillir des bananes et du café pour l'Empire.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127027</GUID>
+      			<Text>Malgré la relation ambivalente de l'Empire avec feu le roi George, ce mémorial commémore son règne et l'expédition d'Enbesa de 1801, menée à la fin de son règne.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127028</GUID>
+      			<Text>UUne magnifique fontaine à plusieurs niveaux surmontée d'une statue de soldat célébrant, café du matin à la main, la conquête de nouvelles terres.</Text>
+		</Text>	
+		
+	</ModOp>
+</ModOps>

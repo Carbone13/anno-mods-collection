@@ -1,0 +1,51 @@
+{
+  "Version": "1.1.1",
+  "ModID": "Spice_TourismShip",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Rozgrywka",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": "大型旅游船",
+    "English": "Large Tourism Ship",
+    "French": null,
+    "German": "Großes Touristenschiff",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": "蒸汽造船厂增加了一艘新的贸易船，通过建造一个世界博览会来解锁\u0027 .",
+    "English": "Adds a new trade ship to the steam shipyard, which is unlocked by building a world\u0027s fair.",
+    "French": null,
+    "German": "Fügt ein neues Handelsschiff in der Dampfschiffswerft ein, was durch den Bau einer Weltausstellung freigeschaltet wird.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: DaLexy",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null,
+  "ModioResourceId" : 3211382
+}

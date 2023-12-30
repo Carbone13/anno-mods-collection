@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600135110</GUID>
+      			<Text>中央大廳</Text>
+		</Text>
+		<Text>
+     			<GUID>600135111</GUID>
+      			<Text>這座宏偉的建築使所有拜訪你的城市的訪客和要人感到驚嘆。</Text>
+		</Text>
+		<Text>
+     			<GUID>600135121</GUID>
+      			<Text>城市規劃</Text>
+		</Text>				
+		<Text>
+     			<GUID>600135122</GUID>
+      			<Text>城市規劃</Text>
+		</Text>
+		<Text>
+     			<GUID>600135123</GUID>
+      			<Text>遊客對你的城市的壯麗感到印象深刻，許多人已開始尋找要購買的房產和要租住的公寓。你投入重新組織城市和聘請建築師的資金正取得回報！</Text>
+		</Text>			
+	</ModOp>
+</ModOps>

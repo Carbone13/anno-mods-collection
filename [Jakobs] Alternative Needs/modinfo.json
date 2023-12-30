@@ -1,0 +1,75 @@
+{
+  "Version": "2.1",
+  "ModID": "jakob_alternative_needs",
+  "ModioResourceId": 3230052,
+  "ModDependencies": [
+    "shared-products-jakob",
+    "jakob_pescatarians",
+    "jakob_industrial_cities",
+    "production-vegetables-and-cheese-jakob",
+    "production-tools-jakob",
+    "production-cans-and-suits-jakob",
+    "production-import-tea-jakob",
+    "production-olive-soap-jakob",
+    "production-pickles-jakob"
+  ],
+  "LoadAfterIds": [
+    "*",
+    "jakob_pescatarians",
+    "production-vegetables-and-cheese-jakob",
+    "production-tools-jakob",
+    "production-cans-and-suits-jakob",
+    "production-import-tea-jakob",
+    "production-olive-soap-jakob",
+    "production-pickles-jakob",
+    "shared-products-jakob",
+    "[AddOn] Clarks Tailoring"
+  ],
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "另类需求(Jakob)",
+    "English": "Alternative Needs (Jakob)",
+    "French": "Alternative Needs (Jakob)",
+    "German": "Alternative Needs (Jakob)",
+    "Italian": "Alternative Needs (Jakob)",
+    "Japanese": "Alternative Needs (Jakob)",
+    "Korean": "Alternative Needs (Jakob)",
+    "Polish": "Alternative Needs (Jakob)",
+    "Russian": "Alternative Needs (Jakob)",
+    "Spanish": "Alternative Needs (Jakob)",
+    "Taiwanese": "Alternative Needs (Jakob)"
+  },
+  "DLCDependencies": [
+    {
+      "DLC": "Docklands",
+      "Dependant": "partly"
+    }
+  ],
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods",
+  "Description": {
+    "English": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "German": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  }
+}

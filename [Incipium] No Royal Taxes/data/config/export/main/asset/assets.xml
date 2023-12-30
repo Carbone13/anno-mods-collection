@@ -1,0 +1,26 @@
+<ModOps>
+    <!-- Incipium's No Royal Taxes -->
+    <ModOp Type="merge" GUID="1010000" Path="/Values/EconomyFeature7/MetropolisFactor/ConfigPerPopulation">
+        <Item>
+            <EffectMaximum>0</EffectMaximum>
+        </Item>
+        <Item>
+            <EffectMaximum>0</EffectMaximum>
+        </Item>
+        <Item>
+            <EffectMaximum>0</EffectMaximum>
+        </Item>
+        <Item>
+            <EffectMaximum>0</EffectMaximum>
+        </Item>
+        <Item>
+            <EffectMaximum>0</EffectMaximum>
+        </Item>
+        <Item>
+            <EffectMaximum>0</EffectMaximum>
+        </Item>
+        <Item>
+            <EffectMaximum>0</EffectMaximum>
+        </Item>
+    </ModOp>
+</ModOps>

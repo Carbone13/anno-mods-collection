@@ -1,0 +1,59 @@
+{
+    "Version": "1.5.1",
+    "ModID": "Spice_AIShipyard",
+    "IncompatibleIds": null,
+    "ModDependencies": null,
+    "Category": {
+        "Chinese": "游戏玩法",
+        "English": "Gameplay",
+        "French": null,
+        "German": "Spielablauf",
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": "Rozgrywka",
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null,
+        "Czech": null
+    },
+    "ModName": {
+        "Chinese": "AI船厂",
+        "English": "AI Shipyard",
+        "French": null,
+        "German": "KI-Schiffswerft",
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": null,
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null,
+        "Czech": null
+    },
+    "Description": {
+        "Chinese": "在现有的存档游戏中添加AI，为它们建造一艘船。建造一个大使馆(游戏邦注:即游戏中的法院)是解锁三星AI和Hugo Mercier博士的唯一方法。",
+        "English": "Add AI into existing savegames by building a ship for them. Building an embassy (the courthouse from the campaign) is the only way to unlock three-star AI and Dr. Hugo Mercier.",
+        "French": null,
+        "German": "Ermöglicht es, eine KI im laufenden Spiel in den Sektor zu holen. um die Drei-Sterne Gegner und Dr. Hugo Mercier freizuschalten, wird eine Botschaft (Das Gerichtsgebäude der Kampagne) benötigt.",
+        "Italian": null,
+        "Japanese": null,
+        "Korean": null,
+        "Polish": null,
+        "Russian": null,
+        "Spanish": null,
+        "Taiwanese": null,
+        "Czech": null
+    },
+    "KnownIssues": null,
+    "DLCDependencies": [
+        {
+            "DLC": "Anarchist",
+            "Dependant": "partly"
+        }
+    ],
+    "CreatorName": "Spice it up-Team: kskudlik",
+    "CreatorContact": "https:\/\/discord.gg\/YTQGDFK",
+    "Image": null,
+    "ModioResourceId":3210534
+}

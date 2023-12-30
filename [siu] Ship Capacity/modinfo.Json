@@ -1,0 +1,51 @@
+{
+  "Version": "1.1.1",
+  "ModID": "Spice_Shipcapacity",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": "船舶容量",
+    "English": "Ship Capacity",
+    "French": null,
+    "German": "Frachtkapazität der Schiffe erhöht",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": "增加船舶的容量。",
+    "English": "Increases the Capacity of Ships.",
+    "French": null,
+    "German": "Erhöht die Kapazität der Schiffe.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: DaLexy",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null,
+  "ModioResourceId" : 3211476
+}

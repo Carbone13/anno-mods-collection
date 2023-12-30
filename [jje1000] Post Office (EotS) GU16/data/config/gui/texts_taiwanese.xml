@@ -1,0 +1,36 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>601128110</GUID>
+      			<Text>郵政局</Text>
+		</Text>
+		<Text>
+     			<GUID>601128111</GUID>
+      			<Text>中央郵局</Text>
+		</Text>
+		<Text>
+     			<GUID>601128112</GUID>
+      			<Text>郵局</Text>
+		</Text>
+		<Text>
+     			<GUID>601128113</GUID>
+      			<Text>郵政局</Text>
+		</Text>
+		<Text>
+     			<GUID>601128114</GUID>
+      			<Text>郵政局</Text>
+		</Text>
+		<Text>
+     			<GUID>601128115</GUID>
+      			<Text>郵局</Text>
+		</Text>
+		<Text>
+     			<GUID>601128120</GUID>
+      			<Text>郵政局</Text>
+		</Text>
+		<Text>
+     			<GUID>601128121</GUID>
+      			<Text>中央郵局</Text>
+		</Text>
+	</ModOp>
+</ModOps>

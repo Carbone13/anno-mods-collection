@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600135110</GUID>
+      			<Text>Salle centrale</Text>
+		</Text>
+		<Text>
+     			<GUID>600135111</GUID>
+      			<Text>Cet édifice grandiose impressionne tous les visiteurs et dignitaires qui se rendent dans votre ville.</Text>
+		</Text>
+		<Text>
+     			<GUID>600135121</GUID>
+      			<Text>Ensemble urbain</Text>
+		</Text>				
+		<Text>
+     			<GUID>600135122</GUID>
+      			<Text>Ensemble urbain</Text>
+		</Text>
+		<Text>
+     			<GUID>600135123</GUID>
+      			<Text>Les visiteurs sont tellement impressionnés par la magnificence de votre ville que beaucoup ont commencé à chercher des biens immobiliers à acheter et des appartements à louer. L'argent que vous avez investi dans la réorganisation de votre ville et l'embauche d'architectes porte ses fruits!</Text>
+		</Text>			
+	</ModOp>
+</ModOps>

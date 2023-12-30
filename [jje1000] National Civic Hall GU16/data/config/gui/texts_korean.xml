@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600037110</GUID>
+      			<Text>국립 시민회관</Text>
+		</Text>
+		<Text>
+     			<GUID>600037111</GUID>
+      			<Text>무도회와 콘서트에서 형사 재판과 학술 예술 전시회에 이르기까지 다양하고 정교한 지역 행사를 위한 웅장한 랜드마크이자 장소입니다.</Text>
+		</Text>
+		<Text>
+     			<GUID>600037121</GUID>
+      			<Text>소셜 시즌</Text>
+		</Text>				
+		<Text>
+     			<GUID>600037122</GUID>
+      			<Text>소셜 시즌</Text>
+		</Text>
+		<Text>
+     			<GUID>600037123</GUID>
+      			<Text>사교 시즌은 한 해 중 호화롭고 술에 취한 기간으로, 부유하고 권력 있는 사람들이 그들의 영지에서 도시로 내려와 어깨를 비비고 원한을 품습니다.</Text>
+		</Text>			
+	</ModOp>
+</ModOps>

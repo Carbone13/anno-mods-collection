@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600038110</GUID>
+      			<Text>証券取引所</Text>
+		</Text>
+		<Text>
+     			<GUID>600038111</GUID>
+      			<Text>これらの金色の大理石のホールを通って、規制されていない金融と商業の帝国の野生の動脈が走っています。 ここでは、領土戦争が金融戦争に匹敵します。</Text> 
+		</Text>	
+		<Text>
+     			<GUID>600038131</GUID>
+      			<Text>金融化</Text>
+		</Text>
+		<Text>
+     			<GUID>600038132</GUID>
+      			<Text>金融化</Text>
+		</Text>
+		<Text>
+     			<GUID>600038133</GUID>
+      			<Text>熱狂が高まり、ティッカー テープがカチカチ音をたて、市場が急騰し、電報が騒ぎ、策略がはびこる…</Text>
+		</Text>		
+	</ModOp>
+</ModOps>

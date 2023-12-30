@@ -1,0 +1,302 @@
+<ModOps>
+  <!-- Incipium's Tweaks and Enhancements -->
+  <!-- Incipium's Power Plants -->
+  <ModOp Type="addNextSibling" GUID='127867'>
+    <Asset>
+      <Template>GuildhouseBuff</Template>
+      <Values>
+        <Standard>
+          <GUID>1998000006</GUID>
+          <Name>incipium_power_plants</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/newspaper/icon_productivity_green.png</IconFilename>
+        </Standard>
+        <ItemEffect>
+          <EffectTargets>
+            <Item>
+              <GUID>193864</GUID>
+            </Item>
+          </EffectTargets>
+        </ItemEffect>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Incipium's Power Plants</Text>
+              <Status>Exported</Status>
+              <ExportCount>10</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>1998999999</LineID>
+        </Text>
+        <FactoryUpgrade />
+        <BuildingUpgrade />
+        <Buff />
+        <CultureUpgrade />
+        <ModuleOwnerUpgrade />
+        <IncidentInfectableUpgrade />
+        <PowerplantUpgrade>
+          <IndustrializationRangeUpgrade>
+            <Value>100</Value>
+          </IndustrializationRangeUpgrade>
+        </PowerplantUpgrade>
+        <IndustrializableUpgrade>
+          <ElectricityBoostUpgrade>
+            <Value>100</Value>
+            <Percental>1</Percental>
+          </ElectricityBoostUpgrade>
+        </IndustrializableUpgrade>
+        <ItemContainerUpgrade />
+        <IncidentInfluencerUpgrade />
+        <IrrigationUpgrade />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Enables Incipium's Power Plants -->
+  <ModOp Type="addNextSibling" GUID='1998000006'>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1998000106</GUID>
+          <Name>Enhanced Power Plants</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionActiveSession</Template>
+            <Values>
+              <Condition />
+              <ConditionActiveSession>
+                <ActiveSession>180023</ActiveSession>
+              </ConditionActiveSession>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000006</BuffAsset>
+                    <AddBuff>0</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000006</BuffAsset>
+                    <AddBuff>1</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1998000206</GUID>
+          <Name>Enhanced Power Plants</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionActiveSession</Template>
+            <Values>
+              <Condition />
+              <ConditionActiveSession>
+                <ActiveSession>180025</ActiveSession>
+              </ConditionActiveSession>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000006</BuffAsset>
+                    <AddBuff>0</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000006</BuffAsset>
+                    <AddBuff>1</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1998000306</GUID>
+          <Name>Enhanced Power Plants</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionActiveSession</Template>
+            <Values>
+              <Condition />
+              <ConditionActiveSession>
+                <ActiveSession>110934</ActiveSession>
+              </ConditionActiveSession>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000006</BuffAsset>
+                    <AddBuff>0</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000006</BuffAsset>
+                    <AddBuff>1</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1998000406</GUID>
+          <Name>Enhanced Power Plants</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionActiveSession</Template>
+            <Values>
+              <Condition />
+              <ConditionActiveSession>
+                <ActiveSession>180045</ActiveSession>
+              </ConditionActiveSession>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000006</BuffAsset>
+                    <AddBuff>0</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000006</BuffAsset>
+                    <AddBuff>1</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1998000506</GUID>
+          <Name>Enhanced Power Plants</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionActiveSession</Template>
+            <Values>
+              <Condition />
+              <ConditionActiveSession>
+                <ActiveSession>112132</ActiveSession>
+              </ConditionActiveSession>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000006</BuffAsset>
+                    <AddBuff>0</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000006</BuffAsset>
+                    <AddBuff>1</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>

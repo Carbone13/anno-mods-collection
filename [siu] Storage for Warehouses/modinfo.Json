@@ -1,0 +1,51 @@
+{
+  "Version": "1.0.1",
+  "ModID": "Spice_Warehousecapacity",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": "仓库储存",
+    "English": "Storage for Warehouses",
+    "French": null,
+    "German": "Lagerkapazität für Lagerhäuser",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": "为每个仓库和仓库层增加5吨岛屿存储。",
+    "English": "Adds 5 tons to the island storage for each warehouse and warehouse tier.",
+    "French": null,
+    "German": "5 Tonnen Lagerkapazität für jedes Lagerhaus und jede Stufe.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: DaLexy",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null,
+  "ModioResourceId":3211479
+}

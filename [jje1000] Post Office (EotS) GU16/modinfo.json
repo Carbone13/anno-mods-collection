@@ -1,0 +1,16 @@
+{
+  "ModID": "post_offices",
+  "Version": "1.1",
+  "Category": {
+    "English": "Building"
+  },
+  "ModName": {
+    "English": "Post Offices"
+  },
+  "Description": {
+    "English": "This mod adds two new post offices to both the Old and New World for the Empire of the Skies mail service."
+  },
+  "KnownIssues": [],
+  "DLCDependencies": [],
+  "CreatorName": "jje1000"
+}

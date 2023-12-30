@@ -1,0 +1,80 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>601127010</GUID>
+      			<Text>Kolumna Triumfalna</Text>
+		</Text>
+		<Text>
+     			<GUID>601127011</GUID>
+      			<Text>Kolumna Nadasky'ego</Text>
+		</Text>
+		<Text>
+     			<GUID>601127012</GUID>
+      			<Text>Kolumna Triumfalna Portu</Text>
+		</Text>
+		<Text>
+     			<GUID>601127013</GUID>
+      			<Text>Łuk Zwycięstwa</Text>
+		</Text>			
+
+		
+		<Text>
+     			<GUID>601127014</GUID>
+      			<Text>Obelisk królowej</Text>
+		</Text>
+		<Text>
+     			<GUID>601127015</GUID>
+      			<Text>Obelisk papieża Lucjusza IV</Text>
+		</Text>
+		<Text>
+     			<GUID>601127016</GUID>
+      			<Text>Kolonialna brama</Text>
+		</Text>
+		<Text>
+     			<GUID>601127017</GUID>
+      			<Text>Pomnik króla Jerzego</Text>
+		</Text>
+		<Text>
+     			<GUID>601127018</GUID>
+      			<Text>Pomnik Porannego Naparu</Text>
+		</Text>
+		
+
+		<Text>
+     			<GUID>601127020</GUID>
+      			<Text>Ta kolumna upamiętnia zwycięstwo, czy to wielkie, czy małe.</Text>
+		</Text>			
+		<Text>
+     			<GUID>601127021</GUID>
+      			<Text>Wspaniały filar wzniesiony na cześć admirała Nadasky'ego za jego zwycięstwo nad Cape Trelawney 15 października 1805 roku.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127023</GUID>
+      			<Text>Dekoracyjny łuk upamiętniający wydarzenie lub osobę.</Text>
+		</Text>
+
+
+		
+		<Text>
+     			<GUID>601127024</GUID>
+      			<Text>Mały pomnik ukochanej, powściągliwej Królowej Imperium.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127025</GUID>
+      			<Text>Pomnik ten został wzniesiony z rozkazu papieża Lucjusza IV, aby przypomnieć doczesnym miastom Imperium, że doskonałe miasto może istnieć tylko poza królestwem ziemskim.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127026</GUID>
+      			<Text>Ta brama została zrekonstruowana z kamieni zdobytych fortec La Corona, upamiętniając nowo odkrytą wolność Nowego Świata, zbierającą banany i kawę dla Imperium.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127027</GUID>
+      			<Text>Pomimo ambiwalentnych relacji Cesarstwa z nieżyjącym już królem Jerzym, ten pomnik upamiętnia jego rządy i wyprawę Enbesan z 1801 r., Przeprowadzoną pod koniec jego panowania.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127028</GUID>
+      			<Text>Wspaniała wielopoziomowa fontanna zwieńczona posągiem żołnierza świętującego z porannym naparem w dłoni podbój nowych ziem.</Text>
+		</Text>		
+		
+	</ModOp>
+</ModOps>

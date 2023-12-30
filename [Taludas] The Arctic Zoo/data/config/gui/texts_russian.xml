@@ -1,0 +1,99 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000131</GUID>
+      <Text>Зоопарк в Арктике</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000132</GUID>
+      <Text>Пустое арктическое ограждение</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000133</GUID>
+      <Text>Парк Полярного круга</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000134</GUID>
+      <Text>Вдохновленные выставкой животных, обитающих за Полярным кругом, ваши инженеры придумали, как оптимизировать использование природного газа, получаемого побочным продуктом нефтедобычи.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000135</GUID>
+      <Text>Сооружённая в арктическом регионе, эта выставка вдохновит инженеров ваших дирижаблей на новые свершения.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000136</GUID>
+      <Text>Парк Полярного круга</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000137</GUID>
+      <Text>Эта коллекция редких и исчезающих видов животных с полярного круга вдохновит ваших отважных авиаторов на новые решения в дизайне их воздушных судов.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000138</GUID>
+      <Text>Представленная в других регионах, эта выставка может улучшить процессы нефтедобычи. В результате, в качестве побочного продукта, можно будет улавливать образующийся природный газ.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000139</GUID>
+      <Text>Грузовой дирижабль Нейта</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000140</GUID>
+      <Text>Этот огромный грузовой дирижабль, спроектированный по чертежам Старины Нейта, обеспечивает большие объёмы для перевозок товаров по всему миру. Управляемый опытными летчиками, это воздушное судно может перевозить внушительное количество товаров с вполне приличной скоростью.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000141</GUID>
+      <Text>Парк арктической тундры</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000142</GUID>
+      <Text>Изучая мех животных, обитающих в суровых климатических условиях арктической тундры, ваши портные добились значительных успехов в дизайне одежды для ваших жителей.</Text>
+    </Text>
+  </ModOp>  
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000143</GUID>
+      <Text>Оборудованная в арктическом регионе, эта выставка позволяет экономить конструкционные материалы при производстве дирижаблей.</Text>
+    </Text>
+  </ModOp> 
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000144</GUID>
+      <Text>Парк арктической тундры</Text>
+    </Text>
+  </ModOp>  
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000145</GUID>
+      <Text>Изучая шкуры животных, обитающих в суровых климатических условиях арктической тундры, инженеры вашего дирижабля добились значительных успехов в использовании материалов обшивки для воздухоплавания.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000146</GUID>
+      <Text>Оборудованная на других регионах, эта выставка может вдохновить ваших портных на достижение новых выдающихся результатов.</Text>
+    </Text>
+  </ModOp>
+
+</ModOps>

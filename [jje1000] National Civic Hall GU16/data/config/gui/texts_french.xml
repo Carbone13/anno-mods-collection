@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600037110</GUID>
+      			<Text>Salle Civique Nationale</Text>
+		</Text>
+		<Text>
+     			<GUID>600037111</GUID>
+      			<Text>Un point de repère magnifique et un lieu pour une riche variété d'événements régionaux sophistiqués, allant des bals et des concerts aux procès criminels et aux expositions d'art académique.</Text>
+		</Text>
+		<Text>
+     			<GUID>600037121</GUID>
+      			<Text>Grande saison</Text>
+		</Text>				
+		<Text>
+     			<GUID>600037122</GUID>
+      			<Text>Grande saison</Text>
+		</Text>
+		<Text>
+     			<GUID>600037123</GUID>
+      			<Text>La grande saison est une période somptueuse et arrosée de l'année, lorsque les riches et les puissants descendent de leurs domaines dans la ville pour se côtoyer et développer des rancunes.</Text>
+		</Text>			
+	</ModOp>
+</ModOps>

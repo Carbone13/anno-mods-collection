@@ -1,0 +1,16 @@
+{
+  "ModID": "bourse",
+  "Version": "1.2",
+  "Category": {
+    "English": "Building"
+  },
+  "ModName": {
+    "English": "Bourse"
+  },
+  "Description": {
+    "English": "This mod adds a new stock exchange building, perfect for adding a dash of financial roguery in your cities!"
+  },
+  "KnownIssues": [],
+  "DLCDependencies": [],
+  "CreatorName": "jje1000"
+}

@@ -1,0 +1,80 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>601127010</GUID>
+      			<Text>승리의 기둥</Text>
+		</Text>
+		<Text>
+     			<GUID>601127011</GUID>
+      			<Text>나다스키 칼럼</Text>
+		</Text>
+		<Text>
+     			<GUID>601127012</GUID>
+      			<Text>항만 승리의 기둥</Text>
+		</Text>
+		<Text>
+     			<GUID>601127013</GUID>
+      			<Text>빅토리 아치</Text>
+		</Text>			
+
+		
+		<Text>
+     			<GUID>601127014</GUID>
+      			<Text>여왕의 오벨리스크</Text>
+		</Text>
+		<Text>
+     			<GUID>601127015</GUID>
+      			<Text>교황 루시우스 4세의 오벨리스크</Text>
+		</Text>
+		<Text>
+     			<GUID>601127016</GUID>
+      			<Text>콜로니얼 아치웨이</Text>
+		</Text>
+		<Text>
+     			<GUID>601127017</GUID>
+      			<Text>킹 조지 기념비</Text>
+		</Text>
+		<Text>
+     			<GUID>601127018</GUID>
+      			<Text>모닝 브루 기념비 </Text>
+		</Text>
+		
+
+		<Text>
+     			<GUID>601127020</GUID>
+      			<Text>이 기둥은 크든 작든 승리를 기념합니다.</Text>
+		</Text>			
+		<Text>
+     			<GUID>601127021</GUID>
+      			<Text>1805년 10월 15일 케이프 트릴로니에서 승리한 나다스키 제독을 기리기 위해 세워진 웅장한 기둥입니다.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127023</GUID>
+      			<Text>사건이나 개인을 기리는 장식용 아치형 통로.</Text>
+		</Text>
+
+
+		
+		<Text>
+     			<GUID>601127024</GUID>
+      			<Text>제국의 사랑스러운 냉담한 여왕을 기리는 작은 기념비.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127025</GUID>
+      			<Text>이 기념비는 교황 루시우스 4세의 명령에 의해 세워졌으며, 완벽한 도시는 지상 영역 너머에만 존재할 수 있음을 제국의 일시적인 도시들에게 상기시키기 위해 세워졌습니다.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127026</GUID>
+      			<Text>이 아치형 통로는 점령된 라 코로나 요새의 돌로 재건되었으며, 제국을 위해 바나나와 커피를 따는 신세계의 새로운 자유를 기념합니다.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127027</GUID>
+      			<Text>고 조지 왕과 제국의 양면적인 관계에도 불구하고 이 기념비는 그의 통치와 그의 통치 후반에 수행된 1801년 엔베산 원정을 기념합니다.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127028</GUID>
+      			<Text>모닝 커피를 손에 들고 신대륙 정복을 축하하는 군인의 동상이 있는 웅장한 다층 분수입니다.</Text>
+		</Text>		
+		
+	</ModOp>
+</ModOps>

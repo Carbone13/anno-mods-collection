@@ -1,0 +1,13 @@
+<ModOps>
+	<!-- Products -->
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>1404422100</GUID>
+			<Text>Land Quay Street</Text>
+		</Text>
+		<Text>
+			<GUID>1404422102</GUID>
+			<Text>Land Quay Street</Text>
+		</Text>
+	</ModOp>
+</ModOps>

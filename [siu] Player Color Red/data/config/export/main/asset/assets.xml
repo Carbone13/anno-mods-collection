@@ -1,0 +1,11 @@
+<ModOps>
+    <ModOp Type="replace" GUID="500769" Path="/Values/CreateGameScene/PlayerAvailableColors/Color6">
+        <Color9>
+            <Available>1</Available>
+        </Color9>
+    </ModOp>
+
+    <ModOp Type="replace" GUID="76,73" Path="/Values/Profile/DefaultColor">
+        <DefaultColor>Color6</DefaultColor>
+    </ModOp>
+</ModOps>

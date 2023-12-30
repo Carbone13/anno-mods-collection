@@ -1,0 +1,75 @@
+<ModOps>
+    
+	<!-- #1 - Scrapers Department Store : Skins -->
+    <Include File="scrapers_department_store_skins.include.xml" />
+    
+	<!-- #2 - Scrapers Department Store Harbor : Skins -->
+    <Include File="scrapers_department_store_skins_harbor.include.xml" />
+    
+	<!-- #3 - All Scrapers Department Store : Recipes -->
+    <Include File="scrapers_department_store_recipes_all.include.xml" />
+    
+	<!-- #4 - All Scrapers Department Store : Buildings -->
+    <Include File="scrapers_department_store_buildings_all.include.xml" />
+    
+	<!-- #5 - Scrapers Furniture Store : Skins -->
+    <Include File="scrapers_furniture_store_skins.include.xml" />
+    
+	<!-- #6 - Scrapers Furniture Store Harbor : Skins -->
+    <Include File="scrapers_furniture_store_skins_harbor.include.xml" />
+    
+	<!-- #7 - All Scrapers Furniture Store : Recipes -->
+    <Include File="scrapers_furniture_store_recipes_all.include.xml" />
+    
+	<!-- #8 - All Scrapers Furniture Store : Buildings -->
+    <Include File="scrapers_furniture_store_buildings_all.include.xml" />
+    
+	<!-- #9 - Scrapers Drug Store : Skins -->
+    <Include File="scrapers_drug_store_skins.include.xml" />
+    
+	<!-- #10 - Scrapers Drug Store Harbor : Skins -->
+    <Include File="scrapers_drug_store_skins_harbor.include.xml" />
+    
+	<!-- #11 - All Scrapers Drug Store : Recipes -->
+    <Include File="scrapers_drug_store_recipes_all.include.xml" />
+    
+	<!-- #12 - All Scrapers Drug Store : Buildings -->
+    <Include File="scrapers_drug_store_buildings_all.include.xml" />
+    
+	<!-- #13 - All Scrapers Store : Targetpools -->
+    <Include File="scrapers_store_targetpools_all.include.xml" />
+    
+	<!-- #14 - All Scrapers Warehouse : Skins -->
+    <Include File="scrapers_warehouse_skins_all.include.xml" />
+    
+	<!-- #15 - All Scrapers Warehouse : Buildings -->
+    <Include File="scrapers_warehouse_buildings_all.include.xml" />
+    
+	<!-- #16 - All Scrapers Warehouse : Targetpools -->
+    <Include File="scrapers_warehouse_targetpools_all.include.xml" />
+    
+	<!-- #17 - All Scrapers : Influenced By Neighbors -->
+    <Include File="scrapers_influence_by_neighbors_all.include.xml" />
+    
+	<!-- #18 - All Scrapers Department Store Ornamental : Buildings -->
+    <Include File="ornamental_scrapers_department_store_buildings_all.include.xml" />
+    
+	<!-- #19 - All Scrapers Furniture Store Ornamental : Buildings -->
+    <Include File="ornamental_scrapers_furniture_store_buildings_all.include.xml" />
+    
+	<!-- #20 - All Scrapers Drug Store Ornamental : Buildings -->
+    <Include File="ornamental_scrapers_drug_store_buildings_all.include.xml" />
+    
+	<!-- #21 - Skyline New Era : Buildmenu -->
+    <Include File="scrapers_buildmenu.include.xml" />
+    
+	<!-- #22 - Skyline New Era ALL : Trigger -->
+    <Include File="scraper_builds_all_triggers.include.xml" />
+    
+	<!-- #23 - Skyline New Era Skyscraper Add : Skins  -->
+    <Include File="scrapers_skin_builds.include.xml" />
+	
+	<!-- #24 - All Scraper Stores: IMYA settings -->
+    <Include File="scrapers_all_stores.imya.include.xml" />
+	
+</ModOps>

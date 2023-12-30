@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600037110</GUID>
+      			<Text>Salón Cívico Nacional</Text>
+		</Text>
+		<Text>
+     			<GUID>600037111</GUID>
+      			<Text>Un punto de referencia magnífico y sede de una rica variedad de eventos regionales sofisticados, que van desde bailes y conciertos hasta juicios penales y exhibiciones de arte académico.</Text>
+		</Text>
+		<Text>
+     			<GUID>600037121</GUID>
+      			<Text>La Temporada de Baile</Text>
+		</Text>				
+		<Text>
+     			<GUID>600037122</GUID>
+      			<Text>La Temporada de Baile</Text>
+		</Text>
+		<Text>
+     			<GUID>600037123</GUID>
+      			<Text>La temporada de baile es un período suntuoso y alcohólico del año, cuando los ricos y poderosos descienden a la ciudad desde sus propiedades para codearse y desarrollar rencores.</Text>
+		</Text>			
+	</ModOp>
+</ModOps>

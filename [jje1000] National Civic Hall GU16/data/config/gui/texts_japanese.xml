@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600037110</GUID>
+      			<Text>国立市民ホール</Text>
+		</Text>
+		<Text>
+     			<GUID>600037111</GUID>
+      			<Text>舞踏会やコンサートから、刑事裁判やアカデミック アートの展示会に至るまで、さまざまな洗練された地域イベントの壮大なランドマークと会場です。</Text>
+		</Text>
+		<Text>
+     			<GUID>600037121</GUID>
+      			<Text>社交の季節</Text>
+		</Text>				
+		<Text>
+     			<GUID>600037122</GUID>
+      			<Text>社交の季節</Text>
+		</Text>
+		<Text>
+     			<GUID>600037123</GUID>
+      			<Text>社交シーズンは、裕福で権力のある人々が自分の領地から街に降りてきて、肩をこすり合わせ、恨みを抱く、1年で豪華で大酒飲みの時期です。</Text>
+		</Text>			
+	</ModOp>
+</ModOps>

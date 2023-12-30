@@ -1,0 +1,165 @@
+<ModOps>
+  <!-- Incipium's Arctic Reduced Workforce (50%) -->
+  <!-- Whaling Station (Arctic)-->
+  <ModOp Type="merge" GUID='112666' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112653</Product>
+      <Amount>15</Amount>
+    </Item>
+  </ModOp>
+  <!-- Seal Hunting Docks (Arctic)-->
+  <ModOp Type="merge" GUID='112674' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112653</Product>
+      <Amount>10</Amount>
+    </Item>
+  </ModOp>
+  <!-- Goose Farm (Arctic)-->
+  <ModOp Type="merge" GUID='112676' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112653</Product>
+      <Amount>15</Amount>
+    </Item>
+  </ModOp>
+  <!-- Husky Farm (Arctic)-->
+  <ModOp Type="merge" GUID='112682' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112654</Product>
+      <Amount>40</Amount>
+    </Item>
+  </ModOp>
+  <!-- Sawmill (Arctic)-->
+  <ModOp Type="merge" GUID='114704' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112653</Product>
+      <Amount>5</Amount>
+    </Item>
+  </ModOp>
+  <!-- Pemmican Cookhouse-->
+  <ModOp Type="merge" GUID='112668' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112653</Product>
+      <Amount>15</Amount>
+    </Item>
+  </ModOp>
+  <!-- Sleeping Bag Factory-->
+  <ModOp Type="merge" GUID='112675' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112653</Product>
+      <Amount>25</Amount>
+    </Item>
+  </ModOp>
+  <!-- Oil Lamp Factory-->
+  <ModOp Type="merge" GUID='112679' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112653</Product>
+      <Amount>35</Amount>
+    </Item>
+  </ModOp>
+  <!-- Parka Factory-->
+  <ModOp Type="merge" GUID='112672' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112654</Product>
+      <Amount>40</Amount>
+    </Item>
+  </ModOp>
+  <!-- Husky Sled Factory-->
+  <ModOp Type="merge" GUID='112680' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112654</Product>
+      <Amount>50</Amount>
+    </Item>
+  </ModOp>
+  <!-- Sled Frame Factory-->
+  <ModOp Type="merge" GUID='112681' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112654</Product>
+      <Amount>40</Amount>
+    </Item>
+  </ModOp>
+  <!-- Lumberjack's Hut (Arctic)-->
+  <ModOp Type="merge" GUID='114703' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112653</Product>
+      <Amount>5</Amount>
+    </Item>
+  </ModOp>
+  <!-- Charcoal Kiln (Arctic)-->
+  <ModOp Type="merge" GUID='114705' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112653</Product>
+      <Amount>5</Amount>
+    </Item>
+  </ModOp>
+  <!-- Caribou Hunting Cabin (Arctic)-->
+  <ModOp Type="merge" GUID='112667' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112653</Product>
+      <Amount>15</Amount>
+    </Item>
+  </ModOp>
+  <!-- Bear Hunting Cabin (Arctic)-->
+  <ModOp Type="merge" GUID='112673' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112653</Product>
+      <Amount>20</Amount>
+    </Item>
+  </ModOp>
+  <!-- Prime Hunting Cabin (Arctic)-->
+  <ModOp Type="merge" GUID='116034' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112653</Product>
+      <Amount>20</Amount>
+    </Item>
+  </ModOp>
+  <!-- Gas Mine-->
+  <ModOp Type="merge" GUID='112690' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112654</Product>
+      <Amount>100</Amount>
+    </Item>
+  </ModOp>
+  <!-- Deep Gold Mine-->
+  <ModOp Type="merge" GUID='116029' Path="/Values/Maintenance/Maintenances">
+    <Item>
+    </Item>
+    <Item>
+      <Product>112654</Product>
+      <Amount>50</Amount>
+    </Item>
+  </ModOp>
+</ModOps>

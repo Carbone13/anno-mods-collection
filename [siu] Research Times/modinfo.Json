@@ -1,0 +1,56 @@
+{
+  "Version": "1.1.1",
+  "ModID": "Spice_Research",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": "更少的研究时间",
+    "English": "Research Times",
+    "French": null,
+    "German": "Forschungszeiten",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": "分配50,000名工程师时，将研究时间调整为最少一分钟。请记住，基础研究时间没有改变，缩放仍然是线性的。",
+    "English": "Adjusts the research times to a minimum of one minute when assigning 50.000 Engineers. Keep in mind that base research times haven't been changed and scaling is still linear.",
+    "French": null,
+    "German": "Passt die Forschungszeiten auf minimal eine Minute bei 50.000 eingesetzten Ingenieuren an. Basis-Forschungszeiten wurden nicht geändert und Skalierung ist immer noch linear!.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC": "LandOfLions",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null,
+  "ModioResourceId" : 3211453
+}

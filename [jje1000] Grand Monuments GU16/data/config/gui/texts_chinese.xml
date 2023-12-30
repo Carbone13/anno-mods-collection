@@ -1,0 +1,80 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>601127010</GUID>
+      			<Text>凯旋柱</Text>
+		</Text>
+		<Text>
+     			<GUID>601127011</GUID>
+      			<Text>纳达斯基的专栏</Text>
+		</Text>
+		<Text>
+     			<GUID>601127012</GUID>
+      			<Text>海港凯旋柱</Text>
+		</Text>
+		<Text>
+     			<GUID>601127013</GUID>
+      			<Text>胜利拱门</Text>
+		</Text>			
+
+		
+		<Text>
+     			<GUID>601127014</GUID>
+      			<Text>女王的方尖碑</Text>
+		</Text>
+		<Text>
+     			<GUID>601127015</GUID>
+      			<Text>教皇卢修斯四世的方尖碑</Text>
+		</Text>
+		<Text>
+     			<GUID>601127016</GUID>
+      			<Text>殖民地拱门</Text>
+		</Text>
+		<Text>
+     			<GUID>601127017</GUID>
+      			<Text>乔治国王纪念碑</Text>
+		</Text>
+		<Text>
+     			<GUID>601127018</GUID>
+      			<Text>晨酿纪念碑</Text>
+		</Text>
+		
+
+		<Text>
+     			<GUID>601127020</GUID>
+      			<Text>这个专栏纪念胜利，无论是大的还是小的。</Text>
+		</Text>			
+		<Text>
+     			<GUID>601127021</GUID>
+      			<Text>为纪念海军上将纳达斯基于 1805 年 10 月 15 日在特里劳尼角取得的胜利而竖立了一根宏伟的柱子。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127023</GUID>
+      			<Text>纪念某个事件或个人的装饰性拱门。</Text>
+		</Text>
+
+
+		
+		<Text>
+     			<GUID>601127024</GUID>
+      			<Text>可爱冷漠的帝国女王的小纪念碑。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127025</GUID>
+      			<Text>这座纪念碑是奉教皇卢修斯四世之命建造的，以提醒帝国的世俗城市，完美的城市只能存在于尘世之外。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127026</GUID>
+      			<Text>这座拱门是用占领的拉科罗纳堡垒的石头重建的，以纪念新世界为帝国采摘香蕉和咖啡的新自由。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127027</GUID>
+      			<Text>尽管帝国与已故国王乔治的关系矛盾重重，但这座纪念碑是为了纪念他的统治和 1801 年在他统治后期进行的恩贝桑远征。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127028</GUID>
+      			<Text>一个宏伟的多层喷泉，一名士兵端着一杯早晨咖啡庆祝征服新的土地。</Text>
+		</Text>		
+		
+	</ModOp>
+</ModOps>

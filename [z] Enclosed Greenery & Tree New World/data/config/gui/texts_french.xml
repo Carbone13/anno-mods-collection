@@ -1,0 +1,23 @@
+
+<ModOps>
+
+ <!-- Asset List -->
+
+  <ModOp Type="add" Path="/TextExport/Texts">
+
+		<Text>
+			<GUID>2100115101</GUID>
+			<Text>Enclosed Greenery with Palms</Text>
+		</Text>	
+		<Text>
+			<GUID>2100115102</GUID>
+			<Text>Enclosed Greenery with Palms - Hacienda bricks</Text>
+		</Text>
+		<Text>
+			<GUID>2100115103</GUID>
+			<Text>Enclosed Jungle Tree</Text>
+		</Text>
+
+  </ModOp>
+
+</ModOps>

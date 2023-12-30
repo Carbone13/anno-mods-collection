@@ -1,0 +1,41 @@
+<ModOps>
+
+ <!-- Large Tourist Ship Replacement -->
+	<ModOp Type="replace" GUID='100434' Path="/Values/Object/Variations">
+                              <Variations>
+                                <Item>
+                                  <Filename>data/moddinggraphics_14/vehicle/tourism_ship_03/tourism_ship_03.cfg</Filename>
+                                </Item>
+                              </Variations>
+	</ModOp>
+	<ModOp Type="replace" GUID='100434' Path="/Values/SoundEmitter">
+                        <SoundEmitter>
+                          <ActiveSounds>
+                            <Item>
+                              <Sound>216009</Sound>
+                            </Item>
+                          </ActiveSounds>
+                        </SoundEmitter>
+	</ModOp>
+	
+ <!-- Tourist Ship Bug Fix -->
+	<ModOp Type="replace" GUID='2001173' Path="/Values/TourismFeature/VisitorTiers">
+                  <VisitorTiers>
+                    <Item>
+                      <VisitorCapacity>650</VisitorCapacity>
+                      <VisitorShip>100432</VisitorShip>
+                    </Item>
+                    <Item>
+                      <VisitorCapacity>3000</VisitorCapacity>
+                      <VisitorShip>100433</VisitorShip>
+                      <Tier>1</Tier>
+                    </Item>
+                    <Item>
+                      <VisitorCapacity>50000</VisitorCapacity>
+                      <VisitorShip>100434</VisitorShip>
+                      <Tier>2</Tier>
+                    </Item>
+                  </VisitorTiers>
+	</ModOp>
+	
+</ModOps>

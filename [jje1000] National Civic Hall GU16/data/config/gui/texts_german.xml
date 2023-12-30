@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600037110</GUID>
+      			<Text>Nationale Bürgerhalle</Text>
+		</Text>
+		<Text>
+     			<GUID>600037111</GUID>
+      			<Text>Ein prachtvolles Wahrzeichen und Schauplatz für eine reiche Auswahl anspruchsvoller regionaler Veranstaltungen, die von Bällen und Konzerten bis hin zu Strafprozessen und Ausstellungen akademischer Kunst reichen.</Text>
+		</Text>
+		<Text>
+     			<GUID>600037121</GUID>
+      			<Text>Ballsaison</Text>
+		</Text>				
+		<Text>
+     			<GUID>600037122</GUID>
+      			<Text>Ballsaison</Text>
+		</Text>
+		<Text>
+     			<GUID>600037123</GUID>
+      			<Text>Die Ballsaison ist eine üppige und feuchtfröhliche Zeit des Jahres, wenn die Reichen und Mächtigen von ihren Anwesen in die Stadt kommen, um sich die Schultern zu reiben und Groll zu entwickeln.</Text>
+		</Text>			
+	</ModOp>
+</ModOps>

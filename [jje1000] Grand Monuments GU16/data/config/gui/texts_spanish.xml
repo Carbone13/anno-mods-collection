@@ -1,0 +1,80 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>601127010</GUID>
+      			<Text>columna triunfal</Text>
+		</Text>
+		<Text>
+     			<GUID>601127011</GUID>
+      			<Text>Columna de Nadasky</Text>
+		</Text>
+		<Text>
+     			<GUID>601127012</GUID>
+      			<Text>Columna triunfal del puerto</Text>
+		</Text>
+		<Text>
+     			<GUID>601127013</GUID>
+      			<Text>Arco de la victoria</Text>
+		</Text>			
+
+		
+		<Text>
+     			<GUID>601127014</GUID>
+      			<Text>Obelisco de la Reina</Text>
+		</Text>
+		<Text>
+     			<GUID>601127015</GUID>
+      			<Text>Obelisco del Papa Lucio IV</Text>
+		</Text>
+		<Text>
+     			<GUID>601127016</GUID>
+      			<Text>Arco Colonial</Text>
+		</Text>
+		<Text>
+     			<GUID>601127017</GUID>
+      			<Text>Monumento al Rey Jorge</Text>
+		</Text>
+		<Text>
+     			<GUID>601127018</GUID>
+      			<Text>Monumento al brebaje matutino</Text>
+		</Text>
+		
+
+		<Text>
+     			<GUID>601127020</GUID>
+      			<Text>Esta columna conmemora una victoria, ya sea grande o pequeña.</Text>
+		</Text>			
+		<Text>
+     			<GUID>601127021</GUID>
+      			<Text>Un magnífico pilar erigido en honor al almirante Nadasky por su victoria en el cabo Trelawney el 15 de octubre de 1805.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127023</GUID>
+      			<Text>Un arco decorativo en honor a un evento o individuo.</Text>
+		</Text>
+
+
+		
+		<Text>
+     			<GUID>601127024</GUID>
+      			<Text>Un arco decorativo en honor a un evento o individuo.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127025</GUID>
+      			<Text>Este monumento fue erigido por orden del Papa Lucio IV, para recordar a las ciudades temporales del Imperio que la ciudad perfecta sólo puede existir más allá del ámbito terrenal.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127026</GUID>
+      			<Text>Este arco está reconstruido a partir de las piedras de las fortalezas capturadas de La Corona, que conmemora la nueva libertad del Nuevo Mundo para recoger plátanos y café para el Imperio.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127027</GUID>
+      			<Text>A pesar de la relación ambivalente del Imperio con el difunto rey Jorge, este monumento conmemora su gobierno y la Expedición Enbesan de 1801, que se llevó a cabo al final de su reinado.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127028</GUID>
+      			<Text>Una magnífica fuente de varios niveles coronada por una estatua de un soldado celebrando, brebaje matutino en mano, la conquista de nuevas tierras.</Text>
+		</Text>		
+		
+	</ModOp>
+</ModOps>

@@ -1,0 +1,24 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600037110</GUID>
+      			<Text>Sala Civica Nazionale</Text>
+		</Text>
+		<Text>
+     			<GUID>600037111</GUID>
+      			<Text>Un magnifico punto di riferimento e sede di una ricca varietà di sofisticati eventi regionali, che vanno da balli e concerti, a processi penali e mostre di arte accademica.</Text>
+		</Text>
+		<Text>
+     			<GUID>600037121</GUID>
+      			<Text>Stagione sociale</Text>
+		</Text>				
+		<Text>
+     			<GUID>600037122</GUID>
+      			<Text>Stagione sociale</Text>
+		</Text>
+		<Text>
+     			<GUID>600037123</GUID>
+      			<Text>La stagione sociale è un periodo dell'anno sontuoso e ubriaco, in cui i ricchi e i potenti scendono in città dalle loro tenute per incontrarsi e sviluppare rancore.</Text>
+		</Text>			
+	</ModOp>
+</ModOps>

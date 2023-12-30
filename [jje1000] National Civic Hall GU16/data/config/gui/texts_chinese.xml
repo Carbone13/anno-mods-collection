@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600037110</GUID>
+      			<Text>国民大会堂</Text>
+		</Text>
+		<Text>
+     			<GUID>600037111</GUID>
+      			<Text>一个宏伟的地标和举办各种复杂区域活动的场所，从舞会和音乐会到刑事审判和学术艺术展览。</Text>
+		</Text>
+		<Text>
+     			<GUID>600037121</GUID>
+      			<Text>社交季节</Text>
+		</Text>				
+		<Text>
+     			<GUID>600037122</GUID>
+      			<Text>社交季节</Text>
+		</Text>
+		<Text>
+     			<GUID>600037123</GUID>
+      			<Text>社交季节是一年中奢侈和酗酒的时间，富人和权势人物从他们的庄园来到这座城市，擦肩而过并产生怨恨。</Text>
+		</Text>			
+	</ModOp>
+</ModOps>

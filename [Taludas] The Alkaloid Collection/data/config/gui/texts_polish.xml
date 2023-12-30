@@ -1,0 +1,110 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000151</GUID>
+      <Text>KOLEKCJA ALKALOIDÓW</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000152</GUID>
+      <Text>Kolekcja egzotycznych roślin zawierających alkaloidy. Służą jako codzienne narkotyki w odległych częściach świata. Możliwe że twoi mieszkańcy są zainteresowani ich wyprubowaniem?</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000153</GUID>
+      <Text>Ogród-Alkaloidów</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000154</GUID>
+      <Text>Wprowadzenie nowych egzotycznych i legalnych narkotyków codziennych prowadzi do niespotykanej euforii wśród Państwa podopiecznych, czemu towarzyszy wzrost wydajności pracy wśród pracowników. Dzięki nowym alternatywom spada spożycie klasycznych używek. Importując nowy "nabytek kultury" zwróćcie jednak uwagę, że zwiększone spożycie substancji psychotropowych prowadzi do zwiększonej podatności na choroby, a w niektórych przypadkach do zwiększonej skłonności do przemocy ze strony waszej populacji.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000155</GUID>
+      <Text>Ogród-Alkaloidów</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000156</GUID>
+      <Text>Ogród-Alkaloidów</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000157</GUID>
+      <Text>Palma areka</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000158</GUID>
+      <Text>&lt;b&gt;Areca catechu.&lt;/b&gt; Nasiona palmy areka są tradycyjnie żute z wapnem gaszonym jako tzw. gryzak betelowy. W wyniku tego zawarta w nasionach arekolina zostaje przekształcona w arekaidynę i dzięki temu może być łatwiej przyswajana. Działa to przeciw zmęczeniu i wyczerpaniu. Podczas żucia ślina zabarwia się na intensywnie czerwony kolor ze względu na zawarte w niej barwniki.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000159</GUID>
+      <Text>Czuwaliczka jadalna</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000160</GUID>
+      <Text>&lt;b&gt;Catha edulis.&lt;/b&gt; Końcówki gałęzi i młode liście krzewu czuwaliczki jadalnej są tradycyjnie żute w większych grupach w porze obiadowej. Zawarta w nich katynka działa pobudzająco i nie pozwala zasnąć. Uprawa wymaga dużego zapotrzebowania na wodę.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000161</GUID>
+      <Text>Drzewo Kola</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000162</GUID>
+      <Text>&lt;b&gt;Cola nitida.&lt;/b&gt; Nasiona drzewa orzecha kola zawierają znacznie więcej kofeiny niż ta sama ilość ziaren kawy. Podczas żucia kofeina jest wchłaniana i działa przeciw zmęczeniu, bólom głowy i utracie libido.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000163</GUID>
+      <Text>Johimba lekarska</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000164</GUID>
+      <Text>&lt;b&gt;Corynanthe johimbe.&lt;/b&gt; Kora wiecznie zielonego drzewa johimba zawiera alkaloid johibinę. Dlatego kora jest tradycyjnie spożywana w krajach afrykańskich jako afrodyzjak i środek wzmacniający funkcje seksualne.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000165</GUID>
+      <Text>Koka</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000166</GUID>
+      <Text>&lt;b&gt;Erythroxylum coca.&lt;/b&gt; Spożywanie liści krzewu koki jest rozpowszechnione w Ameryce Południowej. Zawierają one alkaloid kokainę. Podczas gdy liście są tradycyjnie żute przez rdzennych mieszkańców Ameryki Południowej, "czysta" koka jest spożywana w krajach zachodnich. W Andach ludzie używają jej do łagodzenia objawów choroby wysokościowej poprzez zwiększenie poboru tlenu. Ponadto pomaga tłumić głód, zmęczenie i zimno. Dzięki alkalizacji żutych liści wapnem, kokaina traci swoje właściwości uzależniające, dlatego ludność Andów jest mało uzależniona od działania kokainy.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000167</GUID>
+      <Text>Mak lekarski</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000168</GUID>
+      <Text>&lt;b&gt;Papaver somniferum.&lt;/b&gt; Z mlecznego soku zawartego w kapsułkach maku opiumowego wydobywa się mieszaninę alkaloidów, która zasłynęła jako opium. Ma ona silne działanie przeciwbólowe i odrętwiające. Może twoi inżynierowie wykorzystają opium do opracowania bardzo skutecznego leku, który będzie można sprzedawać w aptekach na bóle głowy, przeziębienia i kaszel?</Text>
+    </Text>
+  </ModOp>
+</ModOps>

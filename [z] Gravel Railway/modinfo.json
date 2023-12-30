@@ -1,0 +1,60 @@
+{
+  "Version": "1.1.0",
+  "ModID": "Blu_GravelRailway",
+  "IncompatibleIds": [],
+  "ModDependencies": [],
+  "Category": {
+    "Chinese": null,
+    "English": "Ornamental",
+    "French": null,
+    "German": "Zierobjekte",
+    "Italian": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Gravel Railway",
+    "French": null,
+    "German": "Schotter Eisenbahn",
+    "Italian": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Retextures railways to use gravel instead of dirt.",
+    "French": null,
+    "German": "Neu texturieren der Schienenwege mit Schotter statt Erde.",
+    "Italian": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [],
+  "CreatorName": "Bluesatin",
+  "CreatorContact": "@Bluesatin",
+  "Image": null
+}

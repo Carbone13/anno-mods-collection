@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600038110</GUID>
+      			<Text>交易所</Text>
+		</Text>
+		<Text>
+     			<GUID>600038111</GUID>
+      			<Text>在這些鍍金的大理石大廳中，流淌著帝國不受管制的金融和商業的狂野動脈。 在這裡，領土戰遇到了金融戰。</Text> 
+		</Text>	
+		<Text>
+     			<GUID>600038131</GUID>
+      			<Text>金融化</Text>
+		</Text>
+		<Text>
+     			<GUID>600038132</GUID>
+      			<Text>金融化</Text>
+		</Text>
+		<Text>
+     			<GUID>600038133</GUID>
+      			<Text>狂熱升起，股票行情走動，市場飆升，電報嗡嗡作響，計劃比比皆是，不斷...</Text>
+		</Text>		
+	</ModOp>
+</ModOps>

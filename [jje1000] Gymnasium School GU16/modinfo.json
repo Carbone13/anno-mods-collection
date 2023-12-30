@@ -1,0 +1,16 @@
+{
+  "ModID": "gymnasium_school",
+  "Version": "1.1",
+  "Category": {
+    "English": "Building"
+  },
+  "ModName": {
+    "English": "Gymnasium School"
+  },
+  "Description": {
+    "English": "This mod adds a new secondary school building for your cities."
+  },
+  "KnownIssues": [],
+  "DLCDependencies": [],
+  "CreatorName": "jje1000"
+}

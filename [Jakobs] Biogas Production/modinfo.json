@@ -1,0 +1,55 @@
+{
+  "Version": "1.6.3",
+  "ModID": "jakob_biogas",
+  "ModioResourceId": 3229958,
+  "DeprecateIds": [
+    "jakob_Biogas_Plant"
+  ],
+  "Category": {
+    "Chinese": "建筑",
+    "English": "Building",
+    "French": "Building",
+    "German": "Building",
+    "Italian": "Building",
+    "Japanese": "Building",
+    "Korean": "Building",
+    "Polish": "Building",
+    "Russian": "Building",
+    "Spanish": "Building",
+    "Taiwanese": "Building"
+  },
+  "ModName": {
+    "Chinese": "沼气生产(Jakob)",
+    "English": "Biogas Production (Jakob)",
+    "French": "Biogas Production (Jakob)",
+    "German": "Biogas Production (Jakob)",
+    "Italian": "Biogas Production (Jakob)",
+    "Japanese": "Biogas Production (Jakob)",
+    "Korean": "Biogas Production (Jakob)",
+    "Polish": "Biogas Production (Jakob)",
+    "Russian": "Biogas Production (Jakob)",
+    "Spanish": "Biogas Production (Jakob)",
+    "Taiwanese": "Biogas Production (Jakob)"
+  },
+  "DLCDependencies": [
+    {
+      "DLC": "ThePassage",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Jakob",
+  "CreatorContact": "https://github.com/jakobharder/anno-1800-jakobs-mods",
+  "Description": {
+    "English": "file::README.md",
+    "Chinese": "file::README.md",
+    "French": "file::README.md",
+    "German": "file::README.md",
+    "Italian": "file::README.md",
+    "Japanese": "file::README.md",
+    "Korean": "file::README.md",
+    "Polish": "file::README.md",
+    "Russian": "file::README.md",
+    "Spanish": "file::README.md",
+    "Taiwanese": "file::README.md"
+  }
+}

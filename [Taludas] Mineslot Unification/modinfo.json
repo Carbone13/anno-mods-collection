@@ -1,0 +1,65 @@
+{
+  "Version": "1.1",
+  "ModID": "Taludas_MineSlotUnification",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "MineSlot Unification (Taludas)",
+    "English": "MineSlot Unification (Taludas)",
+    "French": "MineSlot Unification (Taludas)",
+    "German": "MineSlot Unification (Taludas)",
+    "Italian": "MineSlot Unification (Taludas)",
+    "Japanese": "MineSlot Unification (Taludas)",
+    "Korean": "MineSlot Unification (Taludas)",
+    "Polish": "MineSlot Unification (Taludas)",
+    "Russian": "MineSlot Unification (Taludas)",
+    "Spanish": "MineSlot Unification (Taludas)",
+    "Taiwanese": "MineSlot Unification (Taludas)"
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Every mine is buildable on every slot!",
+    "French": null,
+    "German": "Jede Mine ist nun auf jedem Slot baubar!",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": 
+  [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": null,
+  "CreatorName": "Taludas",
+  "CreatorContact": "https://github.com/Taludas/SmallModsCollection",
+  "Image": null
+}

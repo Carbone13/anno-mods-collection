@@ -1,0 +1,16 @@
+{
+  "ModID": "central_hall",
+  "Version": "1.0",
+  "Category": {
+    "English": "Building"
+  },
+  "ModName": {
+    "English": "Central Hall (Train Station)"
+  },
+  "Description": {
+    "English": "A grand central hall, useful for train stations, harbours, or any purpose in your cites!"
+  },
+  "KnownIssues": [],
+  "DLCDependencies": [],
+  "CreatorName": "jje1000"
+}

@@ -1,0 +1,23 @@
+
+<ModOps>
+
+ <!-- Asset List -->
+
+  <ModOp Type="add" Path="/TextExport/Texts">
+
+		<Text>
+			<GUID>2100115101</GUID>
+			<Text>Umzäunte Begrünung mit Palmen</Text>
+		</Text>
+		<Text>
+			<GUID>2100115101</GUID>
+			<Text>Umzäunte Begrünung mit Palmen - Hacienda Pflaster</Text>
+		</Text>	
+		<Text>
+			<GUID>2100115103</GUID>
+			<Text>Umzäunter Dschungel Baum</Text>
+		</Text>
+
+  </ModOp>
+
+</ModOps>

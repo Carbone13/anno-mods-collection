@@ -1,0 +1,24 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600038110</GUID>
+      			<Text>Borsa</Text>
+		</Text>
+		<Text>
+     			<GUID>600038111</GUID>
+      			<Text>Attraverso queste sale di marmo dorato scorrono le feroci arterie sanguigne dell'Impero della finanza e del commercio senza regole; qui la guerra territoriale trova la sua controparte nella guerra finanziaria.</Text> 
+		</Text>	
+		<Text>
+     			<GUID>600038131</GUID>
+      			<Text>Finanziarizzazione</Text>
+		</Text>
+		<Text>
+     			<GUID>600038132</GUID>
+      			<Text>Finanziarizzazione</Text>
+		</Text>
+		<Text>
+     			<GUID>600038133</GUID>
+      			<Text>La frenesia sale, il ticker tape ticchetta, il mercato sale, il telegrafo ronza, gli schemi abbondano, ancora e ancora...</Text>
+		</Text>		
+	</ModOp>
+</ModOps>

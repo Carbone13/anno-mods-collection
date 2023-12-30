@@ -1,0 +1,51 @@
+{
+  "Version": "1.2.1",
+  "ModID": "Spice_LegendarySeeds",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Rozgrywka",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": "传奇种子",
+    "English": "Legendary Seeds",
+    "French": null,
+    "German": "Legendäres Saatgut",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": "传说的种子，为所有生育有种子项目的旧和新世界。",
+    "English": "Legendary Seeds for all fertilities that have seed items of the old and new world.",
+    "French": null,
+    "German": "Legendäres Saatgut für alle Fruchtbarkeiten mit existierenden Saatgutitems der alten und neuen Welt.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Spice it up-Team: Taubenangriff",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null,
+  "ModioResourceId" : 3211390
+}

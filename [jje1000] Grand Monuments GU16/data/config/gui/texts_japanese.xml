@@ -1,0 +1,80 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>601127010</GUID>
+      			<Text>戦勝記念塔</Text>
+		</Text>
+		<Text>
+     			<GUID>601127011</GUID>
+      			<Text>ナダスキーのコラム</Text>
+		</Text>
+		<Text>
+     			<GUID>601127012</GUID>
+      			<Text>ハーバー戦勝記念塔</Text>
+		</Text>
+		<Text>
+     			<GUID>601127013</GUID>
+      			<Text>勝利のアーチ</Text>
+		</Text>			
+
+		
+		<Text>
+     			<GUID>601127014</GUID>
+      			<Text>女王のオベリスク</Text>
+		</Text>
+		<Text>
+     			<GUID>601127015</GUID>
+      			<Text>教皇ルキウス 4 世のオベリスク</Text>
+		</Text>
+		<Text>
+     			<GUID>601127016</GUID>
+      			<Text>コロニアル アーチウェイ</Text>
+		</Text>
+		<Text>
+     			<GUID>601127017</GUID>
+      			<Text>ジョージ王の記念碑</Text>
+		</Text>
+		<Text>
+     			<GUID>601127018</GUID>
+      			<Text>キング ジョージ モニュメント</Text>
+		</Text>
+		
+
+		<Text>
+     			<GUID>601127020</GUID>
+      			<Text>このコラムは、大なり小なり勝利を記念するものです。</Text>
+		</Text>			
+		<Text>
+     			<GUID>601127021</GUID>
+      			<Text>1805 年 10 月 15 日にトレローニー岬で勝利したナダスキー提督を称えるために建てられた壮大な柱。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127023</GUID>
+      			<Text>イベントまたは個人を称える装飾的なアーチ道。</Text>
+		</Text>
+
+
+		
+		<Text>
+     			<GUID>601127024</GUID>
+      			<Text>帝国の最愛のよそよそしい女王の小さな記念碑。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127025</GUID>
+      			<Text>この記念碑は、教皇ルキウス 4 世の命令によって建てられました。帝国の一時的な都市に、完全な都市は地上の領域を超えてのみ存在できることを思い出させるためです。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127026</GUID>
+      			<Text>このアーチ道は、占領されたラ コロナ要塞の石から再構築され、帝国のためにバナナとコーヒーを摘む新世界の新たな自由を記念しています。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127027</GUID>
+      			<Text>故ジョージ王との帝国のあいまいな関係にもかかわらず、この記念碑は彼の統治と、彼の治世の後半に実施された 1801 年のエンベサン遠征を記念しています。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127028</GUID>
+      			<Text>モーニングコーヒーを片手に新しい土地の征服を祝っている兵士の像が上にある壮大な多層噴水。</Text>
+		</Text>		
+		
+	</ModOp>
+</ModOps>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModOps>
+  <!--Move clay and oil and mines-->
+  <ModOp Type="remove" GUID="101061,102498,101062" Path="/Values/Building/MoveRequiredGodlike" />
+  <ModOp Type="add" GUID="1010500,1010503,1010501,1010504,1010505,1010507" Path="/Values/Building">
+    <Movable>1</Movable>
+  </ModOp>
+</ModOps>

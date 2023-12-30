@@ -1,0 +1,16 @@
+{
+  "ModID": "rms_gigantania",
+  "Version": "1.0",
+  "Category": {
+    "English": "Ship"
+  },
+  "ModName": {
+    "English": "RMS Gigantania"
+  },
+  "Description": {
+    "English": "This mod replaces the largest tourist ship with an even larger one, better fitting into the 1900s."
+  },
+  "KnownIssues": [],
+  "DLCDependencies": [],
+  "CreatorName": "jje1000"
+}

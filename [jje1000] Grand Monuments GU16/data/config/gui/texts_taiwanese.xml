@@ -1,0 +1,80 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>601127010</GUID>
+      			<Text>凱旋柱</Text>
+		</Text>
+		<Text>
+     			<GUID>601127011</GUID>
+      			<Text>納達斯基的專欄</Text>
+		</Text>
+		<Text>
+     			<GUID>601127012</GUID>
+      			<Text>海港凱旋柱</Text>
+		</Text>
+		<Text>
+     			<GUID>601127013</GUID>
+      			<Text>勝利拱門</Text>
+		</Text>			
+
+		
+		<Text>
+     			<GUID>601127014</GUID>
+      			<Text>女王的方尖碑</Text>
+		</Text>
+		<Text>
+     			<GUID>601127015</GUID>
+      			<Text>教皇盧修斯四世的方尖碑</Text>
+		</Text>
+		<Text>
+     			<GUID>601127016</GUID>
+      			<Text>殖民地拱門</Text>
+		</Text>
+		<Text>
+     			<GUID>601127017</GUID>
+      			<Text>喬治國王紀念碑</Text>
+		</Text>
+		<Text>
+     			<GUID>601127018</GUID>
+      			<Text>晨釀紀念碑</Text>
+		</Text>
+		
+
+		<Text>
+     			<GUID>601127020</GUID>
+      			<Text>這個專欄紀念勝利，無論是大的還是小的。</Text>
+		</Text>			
+		<Text>
+     			<GUID>601127021</GUID>
+      			<Text>為紀念海軍上將納達斯基於 1805 年 10 月 15 日在特里勞尼角取得的勝利而豎立了一根宏偉的柱子。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127023</GUID>
+      			<Text>紀念事件或人物的裝飾拱門。</Text>
+		</Text>
+
+
+		
+		<Text>
+     			<GUID>601127024</GUID>
+      			<Text>帝國可愛的冷漠女王的一座小紀念碑。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127025</GUID>
+      			<Text>這座紀念碑是奉教皇盧修斯四世之命建造的，以提醒帝國的世俗城市，完美的城市只能存在於塵世之外。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127026</GUID>
+      			<Text>這座拱門是用佔領的拉科羅納堡壘的石頭重建的，以紀念新世界為帝國採摘香蕉和咖啡的新自由。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127027</GUID>
+      			<Text>儘管帝國與已故國王喬治的關係矛盾重重，但這座紀念碑是為了紀念他的統治和 1801 年在他統治後期進行的恩貝桑遠征。</Text>
+		</Text>
+		<Text>
+     			<GUID>601127028</GUID>
+      			<Text>一個宏偉的多層噴泉，一名士兵端著一杯早晨咖啡慶祝征服新的土地。</Text>
+		</Text>		
+		
+	</ModOp>
+</ModOps>

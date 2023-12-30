@@ -1,0 +1,80 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>601127010</GUID>
+      			<Text>Colonna Trionfale</Text>
+		</Text>
+		<Text>
+     			<GUID>601127011</GUID>
+      			<Text>Colonna di Nadasky</Text>
+		</Text>
+		<Text>
+     			<GUID>601127012</GUID>
+      			<Text>Colonna trionfale del porto</Text>
+		</Text>
+		<Text>
+     			<GUID>601127013</GUID>
+      			<Text>Arco della Vittoria</Text>
+		</Text>			
+
+		
+		<Text>
+     			<GUID>601127014</GUID>
+      			<Text>Obelisco della Regina</Text>
+		</Text>
+		<Text>
+     			<GUID>601127015</GUID>
+      			<Text>Obelisco di Papa Lucio IV</Text>
+		</Text>
+		<Text>
+     			<GUID>601127016</GUID>
+      			<Text>Arco coloniale</Text>
+		</Text>
+		<Text>
+     			<GUID>601127017</GUID>
+      			<Text>Monumento di Re Giorgio</Text>
+		</Text>
+		<Text>
+     			<GUID>601127018</GUID>
+      			<Text>Monumento alla bevanda mattutina</Text>
+		</Text>
+		
+
+		<Text>
+     			<GUID>601127020</GUID>
+      			<Text>Questa colonna commemora una vittoria, grande o piccola che sia.</Text>
+		</Text>			
+		<Text>
+     			<GUID>601127021</GUID>
+      			<Text>Un magnifico pilastro eretto per onorare l'ammiraglio Nadasky per la sua vittoria a Capo Trelawney il 15 ottobre 1805.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127023</GUID>
+      			<Text>Un arco decorativo in onore di un evento o di un individuo.</Text>
+		</Text>
+
+
+		
+		<Text>
+     			<GUID>601127024</GUID>
+      			<Un piccolo monumento all'amata e distaccata Regina dell'Impero.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127025</GUID>
+      			<Text>Questo monumento fu eretto per ordine di Papa Lucio IV, per ricordare alle città temporali dell'Impero che la città perfetta può esistere solo al di là del regno terreno.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127026</GUID>
+      			<Text>Questo arco è ricostruito con le pietre delle fortezze catturate di La Corona, per commemorare la ritrovata libertà del Nuovo Mondo di raccogliere banane e caffè per l'Impero.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127027</GUID>
+      			<Text>Nonostante il rapporto ambivalente dell'Impero con il defunto re Giorgio, questo monumento commemora il suo governo e la spedizione di Enbesan del 1801, che fu effettuata alla fine del suo regno.</Text>
+		</Text>
+		<Text>
+     			<GUID>601127028</GUID>
+      			<Text>Una magnifica fontana a più livelli sormontata da una statua di un soldato che celebra, con il caffè mattutino in mano, la conquista di nuove terre.</Text>
+		</Text>		
+		
+	</ModOp>
+</ModOps>

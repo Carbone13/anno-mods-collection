@@ -1,0 +1,301 @@
+<ModOps>
+  <!-- Incipium's Tweaks and Enhancements -->
+  <!-- Incipium's Increased Productivity -->
+  <ModOp Type="addNextSibling" GUID='127867'>
+    <Asset>
+      <Template>GuildhouseBuff</Template>
+      <Values>
+        <Standard>
+          <GUID>1998000001</GUID>
+          <Name>Increased Productivity</Name>
+          <IconFilename>data/ui/2kimages/main/3dicons/newspaper/icon_productivity_green.png</IconFilename>
+        </Standard>
+        <ItemEffect>
+          <EffectTargets>
+            <Item>
+              <GUID>6000018</GUID>
+            </Item>
+            <Item>
+              <GUID>193770</GUID>
+            </Item>
+          </EffectTargets>
+        </ItemEffect>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Incipium's Increased Productivity</Text>
+              <Status>Exported</Status>
+              <ExportCount>10</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>1998999999</LineID>
+        </Text>
+        <FactoryUpgrade>
+          <ProductivityUpgrade>
+            <Value>100</Value>
+            <Percental>1</Percental>
+          </ProductivityUpgrade>
+        </FactoryUpgrade>
+        <BuildingUpgrade />
+        <Buff />
+        <CultureUpgrade />
+        <ModuleOwnerUpgrade />
+        <IncidentInfectableUpgrade />
+        <PowerplantUpgrade />
+        <IndustrializableUpgrade />
+        <ItemContainerUpgrade />
+        <IncidentInfluencerUpgrade />
+        <IrrigationUpgrade />
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Enables Incipium's Increased Productivity -->
+  <ModOp Type="addNextSibling" GUID='1998000001'>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1998000101</GUID>
+          <Name>Increased Productivity</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionActiveSession</Template>
+            <Values>
+              <Condition />
+              <ConditionActiveSession>
+                <ActiveSession>180023</ActiveSession>
+              </ConditionActiveSession>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000001</BuffAsset>
+                    <AddBuff>0</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000001</BuffAsset>
+                    <AddBuff>1</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1998000201</GUID>
+          <Name>Increased Productivity</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionActiveSession</Template>
+            <Values>
+              <Condition />
+              <ConditionActiveSession>
+                <ActiveSession>180025</ActiveSession>
+              </ConditionActiveSession>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000001</BuffAsset>
+                    <AddBuff>0</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000001</BuffAsset>
+                    <AddBuff>1</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1998000301</GUID>
+          <Name>Increased Productivity</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionActiveSession</Template>
+            <Values>
+              <Condition />
+              <ConditionActiveSession>
+                <ActiveSession>110934</ActiveSession>
+              </ConditionActiveSession>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000001</BuffAsset>
+                    <AddBuff>0</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000001</BuffAsset>
+                    <AddBuff>1</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1998000401</GUID>
+          <Name>Increased Productivity</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionActiveSession</Template>
+            <Values>
+              <Condition />
+              <ConditionActiveSession>
+                <ActiveSession>180045</ActiveSession>
+              </ConditionActiveSession>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000001</BuffAsset>
+                    <AddBuff>0</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000001</BuffAsset>
+                    <AddBuff>1</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1998000501</GUID>
+          <Name>Increased Productivity</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionActiveSession</Template>
+            <Values>
+              <Condition />
+              <ConditionActiveSession>
+                <ActiveSession>112132</ActiveSession>
+              </ConditionActiveSession>
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000001</BuffAsset>
+                    <AddBuff>0</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+            <Item>
+              <TriggerAction>
+                <Template>ActionBuff</Template>
+                <Values>
+                  <Action />
+                  <ActionBuff>
+                    <BuffAsset>1998000001</BuffAsset>
+                    <AddBuff>1</AddBuff>
+                    <BuffProcessingParticipant>1</BuffProcessingParticipant>
+                  </ActionBuff>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup />
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>

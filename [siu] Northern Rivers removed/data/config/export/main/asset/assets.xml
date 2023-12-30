@@ -1,0 +1,98 @@
+<!-- Removed GUID IslandRivers from OldWorld -->
+<ModOps>
+	<ModOp Type="remove" GUID='141652' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141652' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141652' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141643' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141643' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141643' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141651' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141651' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141651' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141619' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141619' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141619' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141620' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141620' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141620' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141621' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141621' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141621' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141626' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141626' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141626' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141622' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141622' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141622' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141645' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141645' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141645' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141644' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141644' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141644' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141616' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141616' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141616' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141646' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141646' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141646' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141654' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141654' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141654' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141617' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141617' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141617' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141804' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141804' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141804' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141618' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141618' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141618' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='142520' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='142520' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='142520' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141653' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141653' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141653' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141649' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141649' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141649' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141805' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141805' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141805' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141648' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141648' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141648' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141650' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141650' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141650' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141679' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141679' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141679' Path="/Values/RandomIsland/IslandType"></ModOp>
+	
+	<ModOp Type="remove" GUID='141623' Path="/Values/RandomIsland/IslandRegion"></ModOp>
+	<ModOp Type="remove" GUID='141623' Path="/Values/RandomIsland/IslandDifficulty"></ModOp>
+	<ModOp Type="remove" GUID='141623' Path="/Values/RandomIsland/IslandType"></ModOp>
+</ModOps>

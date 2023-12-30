@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600038110</GUID>
+      			<Text>Bolsa</Text>
+		</Text>
+		<Text>
+     			<GUID>600038111</GUID>
+      			<Text>A través de estos salones de mármol dorado corren las arterias salvajes del Imperio de las finanzas y el comercio no regulados; aquí, la guerra territorial se encuentra con su rival en la guerra financiera.</Text> 
+		</Text>	
+		<Text>
+     			<GUID>600038131</GUID>
+      			<Text>Financiarización</Text>
+		</Text>
+		<Text>
+     			<GUID>600038132</GUID>
+      			<Text>Financiarización</Text>
+		</Text>
+		<Text>
+     			<GUID>600038133</GUID>
+      			<Text>El frenesí aumenta, la cinta de teletipo avanza, el mercado sube, el telégrafo zumba, los planes abundan, una y otra vez...</Text>
+		</Text>		
+	</ModOp>
+</ModOps>

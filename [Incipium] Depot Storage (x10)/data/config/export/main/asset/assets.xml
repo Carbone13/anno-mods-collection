@@ -1,0 +1,6 @@
+<ModOps>
+  <!-- Incipium's Depot Storage (x10) -->
+  <ModOp Type="merge" GUID='1010519' Path="/Values/Warehouse/WarehouseStorage">
+    <StorageMax>500</StorageMax>
+  </ModOp>
+</ModOps>

@@ -1,0 +1,70 @@
+{
+  "Version": "1.0",
+  "ModID": "Taludas_AlternativeLoudspeakers",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "Ornamental",
+    "English": "Ornamental",
+    "French": "Ornamental",
+    "German": "Ornamental",
+    "Italian": "Ornamental",
+    "Japanese": "Ornamental",
+    "Korean": "Ornamental",
+    "Polish": "Ornamental",
+    "Russian": "Ornamental",
+    "Spanish": "Ornamental",
+    "Taiwanese": "Ornamental"
+  },
+  "ModName": {
+    "Chinese": "Alternative Loudspeakers (Taludas)",
+    "English": "Alternative Loudspeakers (Taludas)",
+    "French": "Alternative Loudspeakers (Taludas)",
+    "German": "Alternative Loudspeakers (Taludas)",
+    "Italian": "Alternative Loudspeakers (Taludas)",
+    "Japanese": "Alternative Loudspeakers (Taludas)",
+    "Korean": "Alternative Loudspeakers (Taludas)",
+    "Polish": "Alternative Loudspeakers (Taludas)",
+    "Russian": "Alternative Loudspeakers (Taludas)",
+    "Spanish": "Alternative Loudspeakers (Taludas)",
+    "Taiwanese": "Alternative Loudspeakers (Taludas)"
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Adds three new variations of the Anarchist Loudspeaker Ornament.",
+    "French": null,
+    "German": "Fügt drei neue Variationen des Ornaments Anarchistischer Lautsprecher hinzu.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": 
+  [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC":"Anarchist",
+      "Dependant": "required"
+    }
+  ],
+  "CreatorName": "Taludas",
+  "CreatorContact": "https://github.com/Taludas/SmallModsCollection",
+  "Image": null
+}

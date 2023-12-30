@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600038110</GUID>
+      			<Text>Giełda</Text>
+		</Text>
+		<Text>
+     			<GUID>600038111</GUID>
+      			<Text>Przez te korytarze z pozłacanego marmuru biegną dzikie arterie nieuregulowanych finansów i handlu Imperium; tutaj wojna terytorialna spotyka się z wojną finansową.</Text> 
+		</Text>	
+		<Text>
+     			<GUID>600038131</GUID>
+      			<Text>Finansjalizacja</Text>
+		</Text>
+		<Text>
+     			<GUID>600038132</GUID>
+      			<Text>Finansjalizacja</Text>
+		</Text>
+		<Text>
+     			<GUID>600038133</GUID>
+      			<Text>Szał rośnie, taśma tyka, rynek rośnie, dzwoni telegraf, mnożą się plany, i tak dalej...</Text>
+		</Text>		
+	</ModOp>
+</ModOps>

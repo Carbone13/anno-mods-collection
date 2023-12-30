@@ -1,0 +1,99 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000131</GUID>
+      <Text>Arktyczne zoo</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000132</GUID>
+      <Text>Pusty arktyczny teren</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000133</GUID>
+      <Text>Park Koła Podbiegunowego</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000134</GUID>
+      <Text>Zainspirowani przez zwierzęta pochodzące z koła podbiegunowego, twoi inżynierowie zoptymalizowali wydobycie gazu ziemnego będącego produktem ubocznym przy produkcji ropy naftowej.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000135</GUID>
+      <Text>Wyposażony w Arktyce, ten zestaw może dać twoim inżynierom sterowca nowe inspiracje.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000136</GUID>
+      <Text>Park Koła Podbiegunowego</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000137</GUID>
+      <Text>Ta kolekcja rzadkich i zagrożonych gatunków zwierząt z kręgu polarnego zainspiruje Twoich dzielnych lotników do nowych inspiracji w projektowaniu ich samolotów.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000138</GUID>
+      <Text>Wyposażony w innych sesjach, zestaw ten może zoptymalizować wydobycie ropy. W rezultacie, gaz ziemny jest generowany jako produkt uboczny.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000139</GUID>
+      <Text>Sterowiec towarowy Nate'a</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000140</GUID>
+      <Text>Zaprojektowany według pomysłu Starego Nate'a, ten ogromny sterowiec towarowy oferuje mnóstwo miejsca do przechowywania towarów z całego świata. Dowodzony przez wykwalifikowanych lotników, statek ten może przenosić duże ilości towarów z przyzwoitą prędkością.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000141</GUID>
+      <Text>Park Tundry Arktycznej</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000142</GUID>
+      <Text>Badając futro zwierząt żyjących w trudnych warunkach klimatycznych arktycznej tundry, twoi krawcy dokonali znaczącego postępu w projektowaniu ubrań twoich mieszkańców.</Text>
+    </Text>
+  </ModOp>  
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000143</GUID>
+      <Text>Wyposażony w Regionie Arktycznym, zapewnia oszczędność materiałów konstrukcyjnych przy produkcji sterowców.</Text>
+    </Text>
+  </ModOp> 
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000144</GUID>
+      <Text>Park Tundry Arktycznej</Text>
+    </Text>
+  </ModOp>  
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000145</GUID>
+      <Text>Badając futro zwierząt żyjących w trudnych warunkach klimatycznych arktycznej tundry, inżynierowie sterowca dokonali znaczących postępów w wykorzystywanych materiałach konstrukcyjnych sterowca.</Text>
+    </Text>
+  </ModOp>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999000146</GUID>
+      <Text>Wyposażony w innych sesjach, ten zestaw może zainspirować twoich krawców do osiągnięcia nowej szczytowej wydajności.</Text>
+    </Text>
+  </ModOp>
+
+</ModOps>

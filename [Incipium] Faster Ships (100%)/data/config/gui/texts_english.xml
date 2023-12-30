@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1998000003</GUID>
+      <Text>Incipium's Faster Ships</Text>
+    </Text>
+  </ModOp>
+</ModOps>

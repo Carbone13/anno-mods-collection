@@ -1,0 +1,16 @@
+{
+  "ModID": "grand_monuments",
+  "Version": "1.2",
+  "Category": {
+    "English": "Ornamental"
+  },
+  "ModName": {
+    "English": "Grand Monuments"
+  },
+  "Description": {
+    "English": "Want something grander monuments to decorate your parks and squares? This mod adds several new victory columns, arches, and obelisks for your cities!"
+  },
+  "KnownIssues": [],
+  "DLCDependencies": [],
+  "CreatorName": "jje1000"
+}

@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<ModOps>
+	<ModOp GUID="1010035" Type="addNextSibling" Path="/">
+		<Asset>
+		  <Template>Street</Template>
+		  <Values>
+			<Standard>
+			  <GUID>1404422100</GUID>
+			  <!-- Pflasterstraße 2-->
+			  <Name>Stone Street 2</Name>
+			  <IconFilename>data/ui/icons/icon_land_quay_street.png</IconFilename>
+			  <ID>EarthStreetStone2</ID>
+			  <InfoDescription>12751</InfoDescription>
+			  <!-- Verbessert die Straßenverbindungen und ermöglicht einen schnelleren Warentransport. -->
+			</Standard>
+			<Cost>
+			  <Costs>
+				<Item>
+				  <Ingredient>1010017</Ingredient>
+				  <!-- Münzen -->
+				  <Amount>50</Amount>
+				</Item>
+				<Item>
+				  <Ingredient>1010196</Ingredient>
+				  <!-- Bretter -->
+				</Item>
+				<Item>
+				  <Ingredient>1010205</Ingredient>
+				  <!-- Ziegelsteine -->
+				  <Amount>1</Amount>
+				</Item>
+				<Item>
+				  <Ingredient>1010218</Ingredient>
+				  <!-- Stahlträger -->
+				</Item>
+				<Item>
+				  <Ingredient>1010207</Ingredient>
+				  <!-- Fenster -->
+				</Item>
+				<Item>
+				  <Ingredient>1010202</Ingredient>
+				  <!-- Stahlbeton -->
+				</Item>
+			  </Costs>
+			  <ItemsPerCost>4</ItemsPerCost>
+			</Cost>
+			<Street>
+			  <CfgFileName>data/graphics/effects/street/earth/earth_street_02_01/earth_street_02.cfg</CfgFileName>
+			  <BridgeAsset>101587</BridgeAsset>
+			  <!-- Steinbrücke -->
+			  <InternalID>88</InternalID>
+			  <DecalMapping>data/config/street/streetdecal.txt.bin</DecalMapping>
+			  <DecalVariation>data/config/street/streetdecal_var.txt</DecalVariation>
+			  <HidePropsAfterBuilding>1</HidePropsAfterBuilding>
+			  <HidePropsWhileBuilding>1</HidePropsWhileBuilding>
+			  <StyleRows>12</StyleRows>
+			  <Quality>2</Quality>
+			  <OverbuildRule>GoodStreet</OverbuildRule>
+			  <SpeedFactor>1.5</SpeedFactor>
+			  <CanBuildOnShore>1</CanBuildOnShore>
+			  <AdaptToNeighbors>
+				<AdaptGroups>Street;StreetHighQuality</AdaptGroups>
+				<NeighborsThatMakeUsAdapt>Crossing_Rail_Street;Crossing_Rail_StreetHighQuality;Quay_And_QuayBase_And_HiddenFences;Bridge_StreetHighQuality;QuayStreet</NeighborsThatMakeUsAdapt>
+			  </AdaptToNeighbors>
+			</Street>
+			<Constructable>
+			  <DestructionCategory>StreetsAndBridges</DestructionCategory>
+			</Constructable>
+			<Locked/>
+			<SoundEmitter>
+			  <DestroySounds>
+				<Item>
+				  <Sound>200777</Sound>
+				</Item>
+			  </DestroySounds>
+			  <ConstructionSounds>
+				<BuildSuccessful>
+				  <Item>
+					<Sound>215917</Sound>
+				  </Item>
+				</BuildSuccessful>
+			  </ConstructionSounds>
+			  <ConstructionStreetSounds>
+				<BuildAddWaypoint>
+				  <Item>
+					<Sound>215920</Sound>
+				  </Item>
+				</BuildAddWaypoint>
+			  </ConstructionStreetSounds>
+			  <MaterialType>Street_Brick</MaterialType>
+			</SoundEmitter>
+			<Text>
+			  <LocaText>
+				<English>
+				  <Text>Paved Street</Text>
+				  <Status>Exported</Status>
+				  <ExportCount>2</ExportCount>
+				</English>
+			  </LocaText>
+			  <LineID>4224</LineID>
+			</Text>
+			<Building>
+			  <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+			</Building>
+		  </Values>
+		</Asset>
+	  </ModOp>
+
+	  <ModOp GUID="1010035" Type="addNextSibling" Path="/">
+		<Asset>
+		  <Template>Street</Template>
+		  <Values>
+			<Standard>
+			  <GUID>1404422102</GUID>
+			  <!-- Pflasterstraße 2 NW-->
+			  <Name>Stone Street 2</Name>
+			  <IconFilename>data/ui/icons/icon_land_quay_street.png</IconFilename>
+			  <ID>EarthStreetStone2NW</ID>
+			  <InfoDescription>12751</InfoDescription>
+			  <!-- Verbessert die Straßenverbindungen und ermöglicht einen schnelleren Warentransport. -->
+			</Standard>
+			<Cost>
+			  <Costs>
+				<Item>
+				  <Ingredient>1010017</Ingredient>
+				  <!-- Münzen -->
+				  <Amount>50</Amount>
+				</Item>
+				<Item>
+				  <Ingredient>1010196</Ingredient>
+				  <!-- Bretter -->
+				</Item>
+				<Item>
+				  <Ingredient>1010205</Ingredient>
+				  <!-- Ziegelsteine -->
+				  <Amount>1</Amount>
+				</Item>
+				<Item>
+				  <Ingredient>1010218</Ingredient>
+				  <!-- Stahlträger -->
+				</Item>
+				<Item>
+				  <Ingredient>1010207</Ingredient>
+				  <!-- Fenster -->
+				</Item>
+				<Item>
+				  <Ingredient>1010202</Ingredient>
+				  <!-- Stahlbeton -->
+				</Item>
+			  </Costs>
+			  <ItemsPerCost>4</ItemsPerCost>
+			</Cost>
+			<Street>
+			  <CfgFileName>data/graphics/effects/street/earth/earth_street_02_02/earth_street_02.cfg</CfgFileName>
+			  <BridgeAsset>101587</BridgeAsset>
+			  <!-- Steinbrücke -->
+			  <InternalID>89</InternalID>
+			  <DecalMapping>data/config/street/streetdecal.txt.bin</DecalMapping>
+			  <DecalVariation>data/config/street/streetdecal_var.txt</DecalVariation>
+			  <HidePropsAfterBuilding>1</HidePropsAfterBuilding>
+			  <HidePropsWhileBuilding>1</HidePropsWhileBuilding>
+			  <StyleRows>12</StyleRows>
+			  <Quality>2</Quality>
+			  <OverbuildRule>GoodStreet</OverbuildRule>
+			  <SpeedFactor>1.5</SpeedFactor>
+			  <CanBuildOnShore>1</CanBuildOnShore>
+			  <AdaptToNeighbors>
+				<AdaptGroups>Street;StreetHighQuality</AdaptGroups>
+				<NeighborsThatMakeUsAdapt>Crossing_Rail_Street;Crossing_Rail_StreetHighQuality;Quay_And_QuayBase_And_HiddenFences;Bridge_StreetHighQuality;QuayStreet</NeighborsThatMakeUsAdapt>
+			  </AdaptToNeighbors>
+			</Street>
+			<Constructable>
+			  <DestructionCategory>StreetsAndBridges</DestructionCategory>
+			</Constructable>
+			<Locked/>
+			<SoundEmitter>
+			  <DestroySounds>
+				<Item>
+				  <Sound>200777</Sound>
+				</Item>
+			  </DestroySounds>
+			  <ConstructionSounds>
+				<BuildSuccessful>
+				  <Item>
+					<Sound>215917</Sound>
+				  </Item>
+				</BuildSuccessful>
+			  </ConstructionSounds>
+			  <ConstructionStreetSounds>
+				<BuildAddWaypoint>
+				  <Item>
+					<Sound>215920</Sound>
+				  </Item>
+				</BuildAddWaypoint>
+			  </ConstructionStreetSounds>
+			  <MaterialType>Street_Brick</MaterialType>
+			</SoundEmitter>
+			<Text>
+			  <LocaText>
+				<English>
+				  <Text>Paved Street</Text>
+				  <Status>Exported</Status>
+				  <ExportCount>2</ExportCount>
+				</English>
+			  </LocaText>
+			  <LineID>4224</LineID>
+			</Text>
+			<Building>
+			  <AssociatedRegions>Colony01</AssociatedRegions>
+			</Building>
+		  </Values>
+		</Asset>
+	  </ModOp>
+
+
+	<ModOp Type="addNextSibling" GUID="25000192" Path="/Values/ConstructionCategory/BuildingList/Item[Building='500506']">
+		<Item>
+		  <Building>1404422100</Building>
+		</Item>
+    </ModOp> 
+<!-- NW -->
+	<ModOp Type="addNextSibling" GUID="25000194" Path="/Values/ConstructionCategory/BuildingList/Item[Building='101309']">
+		<Item>
+		  <Building>1404422102</Building>
+		</Item>
+    </ModOp> 
+	<!-- Add to harbour category -->
+	<!-- OW -->
+	<ModOp Type="addNextSibling" GUID="500903" Path="/Values/ConstructionCategory/BuildingList/Item[Building='1010567']">
+		<Item>
+		  <Building>1404422100</Building>
+		</Item>
+    </ModOp> 
+	<!-- NW -->
+	<ModOp Type="addNextSibling" GUID="25000195" Path="/Values/ConstructionCategory/BuildingList/Item[Building='101339']">
+		<Item>
+		  <Building>1404422102</Building>
+		</Item>
+    </ModOp> 
+
+	<!-- Unlock Trigger -->
+	<ModOp Type="addnextSibling" GUID="130248">
+		<Asset>
+		  <Template>Trigger</Template>
+		  <Values>
+			<Standard>
+			  <GUID>1404422101</GUID>
+			  <Name>MOD_STREET_TRIGGER</Name>
+			</Standard>
+			<Trigger>
+				<TriggerCondition>
+					<Template>ConditionPlayerCounter</Template>
+					<Values>
+						<Condition/>
+						<ConditionPlayerCounter>
+							<PlayerCounter>PopulationByLevel</PlayerCounter>
+							<Context>15000003</Context>
+							<CounterAmount>1</CounterAmount>
+						</ConditionPlayerCounter>
+					</Values>
+				</TriggerCondition>
+			  <TriggerActions>
+				<Item>
+				  <TriggerAction>
+					<Template>ActionUnlockAsset</Template>
+					<Values>
+					  <Action/>
+					  <ActionUnlockAsset>
+						<UnhideAssets>
+							<Item>
+								<Asset>1404422100</Asset>
+								<!-- Eisenbahn Stein -->
+							</Item>
+							
+						</UnhideAssets>
+						<UnlockAssets>
+							<Item>
+								<Asset>1404422100</Asset>
+								<!-- Eisenbahn Stein -->
+							</Item>
+						</UnlockAssets>
+						<AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+					  </ActionUnlockAsset>
+					</Values>
+				  </TriggerAction>
+				</Item>
+			  </TriggerActions>
+			</Trigger>
+			<TriggerSetup/>
+		  </Values>
+		</Asset>
+	  </ModOp>
+
+	  <ModOp Type="addnextSibling" GUID="130248">
+		<Asset>
+		  <Template>Trigger</Template>
+		  <Values>
+			<Standard>
+			  <GUID>1404422103</GUID>
+			  <Name>MOD_STREET_TRIGGER_NW</Name>
+			</Standard>
+			<Trigger>
+				<TriggerCondition>
+					<Template>ConditionPlayerCounter</Template>
+					<Values>
+						<Condition/>
+						<ConditionPlayerCounter>
+							<PlayerCounter>PopulationByLevel</PlayerCounter>
+							<Context>15000006</Context>
+							<CounterAmount>1</CounterAmount>
+						</ConditionPlayerCounter>
+					</Values>
+				</TriggerCondition>
+			  <TriggerActions>
+				<Item>
+				  <TriggerAction>
+					<Template>ActionUnlockAsset</Template>
+					<Values>
+					  <Action/>
+					  <ActionUnlockAsset>
+						<UnhideAssets>
+							<Item>
+								<Asset>1404422102</Asset>
+								<!-- Eisenbahn Stein -->
+							</Item>
+							
+						</UnhideAssets>
+						<UnlockAssets>
+							<Item>
+								<Asset>1404422102</Asset>
+								<!-- Eisenbahn Stein -->
+							</Item>
+						</UnlockAssets>
+						<AdditionalParticipants>Third_party_02_Blake;Third_party_03_Pirate_Harlow;Third_party_04_Pirate_LaFortune;Third_party_05_Sarmento;Third_party_07_Jailor_Bleakworth;Third_party_08_Kahina</AdditionalParticipants>
+					  </ActionUnlockAsset>
+					</Values>
+				  </TriggerAction>
+				</Item>
+			  </TriggerActions>
+			</Trigger>
+			<TriggerSetup/>
+		  </Values>
+		</Asset>
+	  </ModOp>
+
+
+</ModOps>

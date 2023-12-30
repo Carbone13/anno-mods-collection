@@ -1,0 +1,56 @@
+{
+  "Version": "1.0.1",
+  "ModID": "Spice_ItemBuildings",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "游戏玩法",
+    "English": "Gameplay",
+    "French": null,
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Rozgrywka",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": "增加建筑的影响半径",
+    "English": "Increased influence radius of item buildings",
+    "French": null,
+    "German": "Erhöhter Einflussbereich von Itemgebäuden",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": "工会、市政厅、港务局长办公室和北极小屋的影响半径更大。",
+    "English": "Trade union, town hall, harbormaster's office and arctic lodge have a higher radius of effect. ",
+    "French": null,
+    "German": "Handelskammer, Rathaus, Hafenmeisterei und Quartier haben einen höheren Einflussbereich",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC": "ThePassage",
+      "Dependant": "partly"
+    }
+  ],
+  "CreatorName": "Spice it up-Team: DaLexy",
+  "CreatorContact": "https://discord.gg/YTQGDFK",
+  "Image" : null,
+  "ModioResourceId" : 3211369
+}

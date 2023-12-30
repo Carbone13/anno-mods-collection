@@ -1,0 +1,36 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>601128110</GUID>
+      			<Text>Oficina de correos</Text>
+		</Text>
+		<Text>
+     			<GUID>601128111</GUID>
+      			<Text>Edificio central de Correos</Text>
+		</Text>
+		<Text>
+     			<GUID>601128112</GUID>
+      			<Text>Oficinas de correo</Text>
+		</Text>
+		<Text>
+     			<GUID>601128113</GUID>
+      			<Text>Oficina de correos</Text>
+		</Text>
+		<Text>
+     			<GUID>601128114</GUID>
+      			<Text>Oficina de correos</Text>
+		</Text>
+		<Text>
+     			<GUID>601128115</GUID>
+      			<Text>Oficinas de correo</Text>
+		</Text>
+		<Text>
+     			<GUID>601128120</GUID>
+      			<Text>Oficina de correos</Text>
+		</Text>
+		<Text>
+     			<GUID>601128121</GUID>
+      			<Text>Edificio central de Correos</Text>
+		</Text>
+	</ModOp>
+</ModOps>

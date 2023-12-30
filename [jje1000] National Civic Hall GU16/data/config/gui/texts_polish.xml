@@ -1,0 +1,24 @@
+﻿<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+     			<GUID>600037110</GUID>
+      			<Text>Narodowa Sala Obywatelska</Text>
+		</Text>
+		<Text>
+     			<GUID>600037111</GUID>
+      			<Text>Wspaniały punkt orientacyjny i miejsce bogatej gamy wyszukanych wydarzeń regionalnych, od balów i koncertów po procesy karne i wystawy sztuki akademickiej.</Text>
+		</Text>
+		<Text>
+     			<GUID>600037121</GUID>
+      			<Text>Sezon balowy</Text>
+		</Text>				
+		<Text>
+     			<GUID>600037122</GUID>
+      			<Text>Sezon balowy</Text>
+		</Text>
+		<Text>
+     			<GUID>600037123</GUID>
+      			<Text>Sezon balowy to wystawny i pijany okres w roku, kiedy bogaci i potężni schodzą do miasta ze swoich posiadłości, aby się ocierać i rozwijać urazy.</Text>
+		</Text>			
+	</ModOp>
+</ModOps>

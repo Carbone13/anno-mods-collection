@@ -1,0 +1,15 @@
+{
+  "ModID": "Greener Farm Fields",
+  "Version": "1.0",
+  "LoadAfterIds": null,
+  "ModDependencies": null,
+  "IncompatibleIds": null,
+  "Category": {
+    "English": "Misc"
+  },
+  "ModName": {
+    "English": "Greener Farm Fields"
+  },
+  "CreatorName": "Ac3s",
+  "CreatorContact": "https://discord.com/invite/KtfWbev"
+}

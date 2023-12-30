@@ -1,0 +1,16 @@
+{
+  "ModID": "national_civic_hall",
+  "Version": "1.0",
+  "Category": {
+    "English": "Building"
+  },
+  "ModName": {
+    "English": "National Civic Hall"
+  },
+  "Description": {
+    "English": "This mod adds a fashionable new civic hall for your city's elites."
+  },
+  "KnownIssues": [],
+  "DLCDependencies": [],
+  "CreatorName": "jje1000"
+}

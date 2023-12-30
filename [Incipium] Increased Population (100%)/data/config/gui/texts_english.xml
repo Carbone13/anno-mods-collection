@@ -1,0 +1,8 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1998000005</GUID>
+      <Text>Incipium's Increased Population</Text>
+    </Text>
+  </ModOp>
+</ModOps>

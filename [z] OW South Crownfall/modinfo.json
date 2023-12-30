@@ -1,0 +1,50 @@
+{
+  "Version": "1",
+  "ModID": "ame_ked_owcf_s_nate_10bc4022",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "Map",
+    "English": "Map",
+    "French": "Map",
+    "German": "Map",
+    "Italian": "Map",
+    "Japanese": "Map",
+    "Korean": "Map",
+    "Polish": "Map",
+    "Russian": "Map",
+    "Spanish": "Map",
+    "Taiwanese": "Map"
+  },
+  "ModName": {
+    "Chinese": "Ked_OWCF_S_NATE",
+    "English": "Ked_OWCF_S_NATE",
+    "French": "Ked_OWCF_S_NATE",
+    "German": "Ked_OWCF_S_NATE",
+    "Italian": "Ked_OWCF_S_NATE",
+    "Japanese": "Ked_OWCF_S_NATE",
+    "Korean": "Ked_OWCF_S_NATE",
+    "Polish": "Ked_OWCF_S_NATE",
+    "Russian": "Ked_OWCF_S_NATE",
+    "Spanish": "Ked_OWCF_S_NATE",
+    "Taiwanese": "Ked_OWCF_S_NATE"
+  },
+  "Description": {
+    "Chinese": "Select Map Type 'Ked_OWCF_S_NATE' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "English": "Select Map Type 'Ked_OWCF_S_NATE' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "French": "Select Map Type 'Ked_OWCF_S_NATE' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "German": "Select Map Type 'Ked_OWCF_S_NATE' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Italian": "Select Map Type 'Ked_OWCF_S_NATE' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Japanese": "Select Map Type 'Ked_OWCF_S_NATE' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Korean": "Select Map Type 'Ked_OWCF_S_NATE' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Polish": "Select Map Type 'Ked_OWCF_S_NATE' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Russian": "Select Map Type 'Ked_OWCF_S_NATE' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Spanish": "Select Map Type 'Ked_OWCF_S_NATE' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest",
+    "Taiwanese": "Select Map Type 'Ked_OWCF_S_NATE' to play this map.\nWorld and island sizes are fixed.\n\nNote:\n- Do not rename the mod folder. It will lead to a loading screen freeze.\n- You can combine map mods as long as they do not replace the same map type.\n\nThis mod has been created with the Community Map Editor for Anno 1800.\nYou can download the editor at:\nhttps://github.com/anno-mods/AnnoMapEditor/releases/latest"
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Community Map Editor",
+  "CreatorContact": "https://github.com/anno-mods/AnnoMapEditor",
+  "Image": null
+}

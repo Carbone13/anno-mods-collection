@@ -1,0 +1,16 @@
+<ModOps>
+  <ModOp Path="/TextExport/Texts" Type="add">
+    <Text>
+      <GUID>8855080</GUID>
+      <Text>Öl-Verladepier</Text>
+    </Text>
+    <Text>
+      <GUID>8855081</GUID>
+      <Text>Öl-Verladepier</Text>
+    </Text>
+    <Text>
+      <GUID>1440133050</GUID>
+      <Text>Öl-Verladepier</Text>
+    </Text>
+  </ModOp>
+</ModOps>

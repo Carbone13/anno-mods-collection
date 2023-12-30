@@ -1,0 +1,78 @@
+{
+  "Version": "1.21",
+  "ModID": "Green_Mile_MU",
+  "LoadAfterIds": [
+    "A_Modified_Ornaments_Tab",
+	"Shared_Objects_MU",
+	"Streets_Related_MU",
+	"Pavements_MU"
+  ],
+  "IncompatibleIds": [],
+  "ModDependencies": [ 
+    "A_Modified_Ornaments_Tab",
+	"Shared_Objects_MU"
+  ],
+  "Category": {
+    "Chinese": "Ornamental",
+    "English": "Ornamental",
+    "French": "Ornamental",
+    "German": "Ornamental",
+    "Italian": "Ornamental",
+    "Japanese": "Ornamental",
+    "Korean": "Ornamental",
+    "Polish": "Ornamental",
+    "Russian": "Ornamental",
+    "Spanish": "Ornamental",
+    "Taiwanese": "Ornamental"
+  },
+    "ModName": {
+    "Chinese": "Green_Mile_MU",
+    "English": "Green_Mile_MU",
+    "French": "Green_Mile_MU",
+    "German": "Green_Mile_MU",
+    "Italian": "Green_Mile_MU",
+    "Japanese": "Green_Mile_MU",
+    "Korean": "Green_Mile_MU",
+    "Polish": "Green_Mile_MU",
+    "Russian": "Green_Mile_MU",
+    "Spanish": "Green_Mile_MU",
+    "Taiwanese": "Green_Mile_MU"
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "This mod contains all trees and plants from City and Harbour_Ornaments.",
+    "French": "Ce mod contient tous les arbres et plantes de City et Harbour_Ornaments.",
+    "German": "Dieser Mod enthält alle Bäume und Pfanzen aus City und Harbour_Ornaments.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": "Ten mod zawiera wszystkie drzewa i rośliny z City i Harbour_Ornaments.",
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": null,
+      "Dependant": null
+    }
+  ],
+  "CreatorName": "muggenstuermer",
+  "CreatorContact": "https://www.nexusmods.com/anno1800/users/74331668",
+  "Image" : null
+}

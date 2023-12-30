@@ -1,0 +1,38 @@
+<ModOps>
+	<!-- Increases the Cargolimit for Ship of the Line, Frigate, Clipper, Battlecruiser and all Trader/Pirate variants -->
+	<ModOp Type="add" GUID="100440,100439,100441,100442,102430,102431,102421,102419,102425,102428,102427,114166" Path="/Values/ItemContainer">
+		<StackLimit>75</StackLimit>
+	</ModOp>
+	<!-- Increases the Cargolimit of the Freighter, Extravaganza, World Class Reefer and the Great Eastern -->
+	<ModOp Type="add" GUID='1010062,102455,118718,132404' Path="/Values/ItemContainer">
+		<StackLimit>100</StackLimit>
+	</ModOp>
+	<!-- Increases the Cargolimit if the Oil Tanker -->
+	<ModOp Type="replace" GUID='100853' Path="/Values/ItemContainer/StackLimit">
+		<StackLimit>500</StackLimit>
+	</ModOp>
+	<!-- Traderoute settings to reflect the change above -->
+	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Normal/MaxGoodTransferAmount">
+		<MaxGoodTransferAmount>100</MaxGoodTransferAmount>
+	</ModOp>
+	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Normal/DefaultGoodTransferAmount">
+		<DefaultGoodTransferAmount>100</DefaultGoodTransferAmount>
+	</ModOp>
+	<!-- Traderoute settings to reflect the change above -->
+	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Oil/DefaultGoodTransferAmount">
+		<DefaultGoodTransferAmount>500</DefaultGoodTransferAmount>
+	</ModOp>
+	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Oil/MaxGoodTransferAmount">
+		<MaxGoodTransferAmount>500</MaxGoodTransferAmount>
+	</ModOp>
+
+	<ModOp Type = "add" Path = "//Asset[Template='AirShip' or Template = 'WarAirShip']/Values/ItemContainer">
+		<StackLimit>100</StackLimit>
+	</ModOp>
+	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Mail/DefaultGoodTransferAmount">
+		<DefaultGoodTransferAmount>100</DefaultGoodTransferAmount>
+	</ModOp>
+	<ModOp Type="replace" GUID='140011' Path="/Values/TradeRouteFeature/TransportationTypes/Mail/MaxGoodTransferAmount">
+		<MaxGoodTransferAmount>100</MaxGoodTransferAmount>
+	</ModOp>
+</ModOps>

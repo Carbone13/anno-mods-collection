@@ -1,0 +1,52 @@
+{
+  "Version": "1.3",
+  "ModID": "Enclosed Greenery and Tree New World",
+  "IncompatibleIds": [],
+
+  "ModDependencies": null,
+
+  "Category": {
+    "Chinese": null,
+    "English": "Ornamental",
+    "French": null,
+    "German": "Ornamental",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+
+  "ModName": {
+    "Chinese": null,
+    "English": "Enclosed Greenery and Tree - adjusted to New World",
+    "French": null,
+    "German": "Umzaeuntes Grün und Baum - angepasst an die Neue Welt",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Adds a variation of the enclosed greenery and the enclosed tree with palms and rainforest trees to better fit into the New World.",
+    "French": null,
+    "German": "Fügt eine Variation des umzäunten Grüns und des umzäunten Baums mit Palmen und Regenwaldbäumen hinzu, um besser in die Neue Welt zu passen.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": "cDLC-05",
+  "CreatorName": "Lion053",
+  "CreatorContact": "https://discord.gg/YTQGDFK"
+}

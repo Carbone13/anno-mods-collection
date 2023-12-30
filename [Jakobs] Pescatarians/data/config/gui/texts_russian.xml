@@ -1,0 +1,207 @@
+<ModOps>
+  <!-- # Pescatarians -->
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <!-- main -->
+    <Text>
+      <GUID>601382</GUID>
+      <Text>Пескетарианцы</Text>
+    </Text>
+    <Text>
+      <GUID>1500010100</GUID>
+      <Text>Зал собраний</Text>
+    </Text>
+    <Text>
+      <GUID>1500010118</GUID>
+      <Text>Зал собраний</Text> <!-- public service: luxury -->
+    </Text>
+    <Text>
+      <GUID>1500010119</GUID>
+      <Text>Рынок</Text> <!-- public service: basic -->
+    </Text>
+    <Text>
+      <GUID>1500010134</GUID>
+      <Text>Пескетарианцы</Text>
+    </Text>
+    <Text>
+      <GUID>1500010136</GUID>
+      <Text>Зарождение</Text> <!-- AGE OF -->
+    </Text>
+    <Text>
+      <GUID>1500010137</GUID>
+      <Text>Пескетарианства</Text> <!-- AGRICULTURE -->
+    </Text>
+    <Text>
+      <GUID>1500010142</GUID>
+      <Text>Жильё фермеров пескетарианцев</Text>
+    </Text>
+    <Text>
+      <GUID>1500010143</GUID>
+      <Text>Жильё рабочих пескетарианцев</Text>
+    </Text>
+    <Text>
+      <GUID>1500010144</GUID>
+      <Text>Жильё ремесленников пескетарианцев</Text>
+    </Text>
+    <Text>
+      <GUID>1500010145</GUID>
+      <Text>Жильё инженеров пескетарианцев</Text>
+    </Text>
+    <Text>
+      <GUID>1500010146</GUID>
+      <Text>Здесь живут пескетарианцы. Они обеспечивают ту же рабочую силу, что и обычное население, но имеют иные потребности. А жильё рабочих и ремесленников-пескетарианцев дает доп. рабочую силу из числа крестьян.</Text>
+    </Text>
+    <Text>
+      <GUID>1500010147</GUID>
+      <Text>Жильё пескетарианцев</Text>
+    </Text>
+    <Text>
+      <GUID>1500010148</GUID>
+      <Text>Жильё пескетарианцев</Text>
+    </Text>
+    <Text>
+      <GUID>1500010169</GUID>
+      <Text>Общежитие ремесленников и инженеров.</Text> <!-- Skin Description: Mixed Engineer and Artisan residences. -->
+    </Text>
+    <Text>
+      <GUID>1500010170</GUID>
+      <Text>Pescatarians (Jakob)</Text> <!-- Mod name -->
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1500010173</GUID>
+      <Text>Многоквартирный дом ремесленников.</Text> <!-- Skin Description: Taller Artisan residences. -->
+    </Text>
+    <Text>
+      <GUID>1500010186</GUID>
+      <Text>[AssetData(1500010134) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1500010188</GUID>
+      <Text>Пескетарианские сооружения</Text>
+    </Text>
+    <Text>
+      <GUID>1500010189</GUID>
+      <Text>Общежитие рабочих и ремесленников.</Text> <!-- Skin Description: Mixed Artisan and Worker residences. -->
+    </Text>
+    <Text>
+      <GUID>1500010282</GUID>
+      <Text>Жильё пескетарианцев</Text>
+    </Text>
+    <Text>
+      <GUID>1500010800</GUID>
+      <Text>Музыкальная школа</Text> <!-- building: music school -->
+    </Text>
+    <Text>
+      <GUID>1500010801</GUID>
+      <Text>[AssetData(1500010800) Text]</Text> <!-- service: music school -->
+    </Text>
+    <Text>
+      <GUID>1500010804</GUID>
+      <Text>Смешанная рабочая сила</Text>
+    </Text>
+    <Text>
+      <GUID>1500010806</GUID> <!-- can't be AssetData -->
+      <Text>Пескетарианцы</Text>
+    </Text>
+    <Text>
+      <GUID>1500010810</GUID>
+      <Text>Злой пескетарианец</Text>
+    </Text>
+    <Text>
+      <GUID>1500010811</GUID>
+      <Text>Несчастный пескетарианец</Text>
+    </Text>
+    <Text>
+      <GUID>1500010812</GUID>
+      <Text>Довольный пескетарианец</Text>
+    </Text>
+    <Text>
+      <GUID>1500010813</GUID>
+      <Text>Счастливый пескетарианец</Text>
+    </Text>
+    <Text>
+      <GUID>1500010814</GUID>
+      <Text>Восторженный пескетарианец</Text>
+    </Text>
+    <Text>
+      <GUID>1500010321</GUID>
+      <Text>Высокая красная черепица</Text>
+    </Text>
+    <Text>
+      <GUID>1500010833</GUID>
+      <Text>Тёмная черепица</Text>
+    </Text>
+    <Text>
+      <GUID>1500010311</GUID>
+      <Text>Высокая синяя черепица</Text>
+    </Text>
+  </ModOp>
+
+  <!-- # Services -->
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010816</GUID>
+      <Text>Библиотека</Text>
+    </Text>
+    <Text>
+      <GUID>1500010818</GUID>
+      <Text>Библиотека</Text>
+    </Text>
+    <Text>
+      <GUID>1500010841</GUID>
+      <Text>Жёлтый стиль</Text>
+    </Text>
+    <Text>
+      <GUID>1500010842</GUID>
+      <Text>Вид школы</Text>
+    </Text>
+    <Text>
+      <GUID>1500010817</GUID>
+      <Text>Малое почтовое отделение</Text>
+    </Text>
+    <Text>
+      <GUID>1500010819</GUID>
+      <Text>Ресторан морепродуктов</Text>
+    </Text>
+    <Text>
+      <GUID>1500010820</GUID>
+      <Text>Ресторан морепродуктов</Text>
+    </Text>
+  </ModOp> 
+  
+  <!-- # Ships -->
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010821</GUID>
+      <Text>Трёхмачтовая шхуна</Text>
+    </Text>
+  </ModOp>
+
+  <!-- # Productions -->
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010822</GUID>
+      <Text>Производство верёвок</Text>
+    </Text>
+    <Text>
+      <GUID>1500010824</GUID>
+      <Text>Верёвки</Text>
+    </Text>
+    <Text>
+      <GUID>1500010825</GUID>
+      <Text>Верёвки</Text>
+    </Text>
+    <Text>
+      <GUID>1500010827</GUID>
+      <Text>Рыболовные сети</Text>
+    </Text>
+    <Text>
+      <GUID>1500010828</GUID>
+      <Text>Производство рыболовных сетей</Text>
+    </Text>
+    <Text>
+      <GUID>1500010829</GUID>
+      <Text>Рыболовные сети</Text>
+    </Text>
+  </ModOp>
+</ModOps>

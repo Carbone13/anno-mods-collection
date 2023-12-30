@@ -1,0 +1,33 @@
+<ModOps>	
+<!-- muggenstuermer GUID-Range  1337500000 - 1337510000  -->
+
+	
+<!-- ID's are used for this mod: 
+
+-->
+
+<!-- #1 - Green_Mile Buildmenue -->
+    <Include File="green_mile_buildmenu.include.xml" />
+	
+<!-- #2 - CO2: All Trees and Flowers in pot-->
+    <Include File="city_ornaments_greenery.include.xml" /> 
+	
+<!-- #3 - CO2: All Flowerfields -->
+    <Include File="city_ornaments_flowers.include.xml" />
+	
+<!-- #4 - HO2: All Trees and Flowers in pot-->
+    <Include File="harbor_ornaments_greenery.include.xml" /> 
+	
+<!-- #5 - CO2: All Trees and Flowers in pot-IMYA TWEAKS -->
+	<Include File="city_ornaments_greenery.imya.include.xml" /> 
+    
+<!-- #6 - CO2: All Flowerfields-IMYA TWEAKS -->
+	<Include File="city_ornaments_flowers.imya.include.xml" /> 
+    
+<!-- #7 - HO2: All Trees and Flowers in pot-IMYA TWEAKS -->
+	<Include File="harbor_ornaments_greenery.imya.include.xml" /> 
+    
+
+</ModOps>
+
+<!-- 2023-02-21 01:38:07 -->

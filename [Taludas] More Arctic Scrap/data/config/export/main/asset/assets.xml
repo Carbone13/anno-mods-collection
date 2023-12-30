@@ -1,0 +1,21 @@
+<ModOps>
+    <ImyaTweaks Title="Features of More Arctic Scrap" Description="You can use the value entries to fine tune your experience." Icon="data/ui/2kimages/main/3dicons/icon_passage_junk.png" />
+    <ModOp Type="replace" GUID="116830" Path="/Values/RewardPool/ItemsPool" ModOpID="CustomArcticScrapAmount">
+        <ItemsPool>
+            <Item>
+                <ItemLink>115980</ItemLink>
+                <MaxAmount>15</MaxAmount>
+                <Weight>3</Weight>
+            </Item>
+           <Item>
+                <ItemLink>115980</ItemLink>
+                <MinAmount>60</MinAmount>
+                <MaxAmount>80</MaxAmount>
+                <Weight>3000</Weight>
+                <DivingScrapAmountLevelNeeded>1</DivingScrapAmountLevelNeeded>
+            </Item>
+        </ItemsPool>
+    </ModOp>
+    <ImyaExpose Path="self::ItemsPool/Item[1]/MaxAmount" ModOpID="CustomArcticScrapAmount" ExposeID="Sets max Amount of Scrap for Loot Chests" Description="This value sets the MAX amount of scrap, that can be found in a chest. The average will still be lower than the entered number."></ImyaExpose>
+
+</ModOps>
