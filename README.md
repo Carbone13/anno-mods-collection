@@ -6,6 +6,11 @@ They are organized by creators because most of them come from big collections (S
 
 The last mods, tagged with [z], are standalone mods.
 
+## Usage 
+Add the mods to `Anno 1800/mods` folder, or use [I Mod Your Anno](https://github.com/anno-mods/iModYourAnno), you can import latest release in the "Library" tab by clicking "Select Archive to install" 
+
+Note: this collection is not intended to be runned like that, it's just a place where I store the mods I like, I never use all of them in a single session !
+
 ## Sources
 
 - ### [Incipium's Tweaks and Enhancements](https://www.nexusmods.com/anno1800/mods/15)
